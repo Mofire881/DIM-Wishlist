@@ -25,6 +25,8 @@ Index:
 —————————————————————————
 Halfdan-D - 43 Rolls
 dimwishlist:item=1518042134&perks=2054312700,106909392,1359896290,1015611457#notes:SCHolo/TacMag/DynamSwayReduc/KillClip
+dimwishlist:item=1518042134&perks=2054312700,106909392,1359896290,1015611457#notes:SCHolo/TacMag/DynamSwayReduc/KillClip
+
 dimwishlist:item=1518042134&perks=2054312700,106909392,1359896290,588594999#notes:SCHolo/TacMag/DynamSwayReduc/MovingTarget 
 dimwishlist:item=1518042134&perks=2054312700,106909392,1890422124,1015611457#notes:SCHolo/TacMag/TapTheTrigger/KillClip
 dimwishlist:item=1518042134&perks=2054312700,106909392,1890422124,588594999#notes:SCHolo/TacMag/TapTheTrigger/MovingTarget

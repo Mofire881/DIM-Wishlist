@@ -3688,30 +3688,16 @@ dimwishlist:item=736901634&perks=981914802,3301904089,3300816228,2888557110#note
 dimwishlist:item=736901634&perks=981914802,3301904089,3300816228,2888557110#notes: HardLaunch/Spike/FieldPrep/FullCourt 
 —————————————————————————
 —————————————————————————
-Interference VI - 23 Rolls
-dimwishlist:item=2257180473&perks=981914802,3301904089,3300816228,3523296417#notes: HardLaunch/Spike/AutoLoading/Demolitionist
-dimwishlist:item=2257180473&perks=3525010810,3301904089,3300816228,3523296417#notes: QuickLaunch/Spike/AutoLoading/Demolitionist
-dimwishlist:item=2257180473&perks=981914802,3301904089,3300816228,2888557110#notes: HardLaunch/Spike/AutoLoading/FullCourt
-dimwishlist:item=2257180473&perks=3525010810,3301904089,3300816228,2888557110#notes: QuickLaunch/Spike/AutoLoading/FullCourt
-dimwishlist:item=2257180473&perks=981914802,3301904089,2869569095,3523296417#notes: HardLaunch/Spike/FieldPrep/Demolitionist
-dimwishlist:item=2257180473&perks=3525010810,3301904089,2869569095,3523296417#notes: QuickLaunch/Spike/FieldPrep/Demolitionist
-dimwishlist:item=2257180473&perks=981914802,3301904089,2869569095,2888557110#notes: HardLaunch/Spike/FieldPrep/FullCourt
-dimwishlist:item=2257180473&perks=3525010810,3301904089,2869569095,2888557110#notes: QuickLaunch/Spike/FieldPrep/FullCourt
-dimwishlist:item=2257180473&perks=981914802,3301904089,1631667848,4082225868#notes: HardLaunch/Spike/GraveRobber/Swashbuckler
-dimwishlist:item=2257180473&perks=3525010810,3301904089,1631667848,4082225868#notes: QuickLaunch/Spike/GraveRobber/Swashbuckler
-dimwishlist:item=2257180473&perks=3525010810,2985827016,2869569095,3523296417#notes: QuickLaunch/AlloyCasing/FieldPrep/Demolitionist
-dimwishlist:item=2257180473&perks=981914802,2985827016,2869569095,2888557110#notes: HardLaunch/AlloyCasing/FieldPrep/FullCourt
-dimwishlist:item=2257180473&perks=3525010810,2985827016,2869569095,2888557110#notes: QuickLaunch/AlloyCasing/FieldPrep/FullCourt
-dimwishlist:item=2257180473&perks=3525010810,2985827016,2284787283,3523296417#notes: QuickLaunch/AlloyCasing/Clown/Demolitionist
-dimwishlist:item=2257180473&perks=981914802,2985827016,2284787283,2888557110#notes: HardLaunch/AlloyCasing/Clown/FullCourt
-dimwishlist:item=2257180473&perks=3525010810,2985827016,2284787283,2888557110#notes: QuickLaunch/AlloyCasing/Clown/FullCourt
-dimwishlist:item=2257180473&perks=3525010810,1771897777,3300816228,3523296417#notes: QuickLaunch/Augmented/AutoLoading/Demolitionist
-dimwishlist:item=2257180473&perks=981914802,1771897777,3300816228,2888557110#notes: HardLaunch/Augmented/AutoLoading/FullCourt
+Interference VI - 9 Rolls
+dimwishlist:item=2257180473&perks=3525010810,1380253176,3300816228,2888557110#notes: QuickLaunch/Ordnance/AutoLoading/FullCourt
 dimwishlist:item=2257180473&perks=3525010810,1771897777,3300816228,2888557110#notes: QuickLaunch/Augmented/AutoLoading/FullCourt
-dimwishlist:item=2257180473&perks=3525010810,1771897777,2869569095,3523296417#notes: QuickLaunch/Augmented/FieldPrep/Demolitionist
-dimwishlist:item=2257180473&perks=981914802,1771897777,2869569095,2888557110#notes: HardLaunch/Augmented/FieldPrep/FullCourt
-dimwishlist:item=2257180473&perks=3525010810,1771897777,2869569095,2888557110#notes: QuickLaunch/Augmented/FieldPrep/FullCourt
-dimwishlist:item=2257180473&perks=3525010810,1771897777,1631667848,4082225868#notes: QuickLaunch/Augmented/GraveRobber/Swashbuckler
+dimwishlist:item=2257180473&perks=981914802,3301904089,1631667848,4082225868#notes: HardLaunch/Spike/GraveRobber/Swashbuckler
+dimwishlist:item=2257180473&perks=981914802,3301904089,2284787283,3523296417#notes: HardLaunch/Spike/Clown/Demolitionist
+dimwishlist:item=2257180473&perks=1478423395,332133599,3300816228,2888557110#notes: Volatile/MiniFrags/FieldPrep/FullCourt
+dimwishlist:item=2257180473&perks=1478423395,1380253176,3300816228,2888557110#notes: Volatile/Ordnance/AutoLoading/FullCourt
+dimwishlist:item=2257180473&perks=1478423395,1380253176,3300816228,2888557110#notes: Volatile/Ordnance/FieldPrep/FullCourt
+dimwishlist:item=2257180473&perks=1478423395,1771897777,3300816228,2888557110#notes: Volatile/Augmented/AutoLoading/FullCourt
+dimwishlist:item=2257180473&perks=1478423395,2985827016,2284787283,2888557110#notes: Volatile/AlloyCasing/Clown/FullCourt
 —————————————————————————
 Militia's Birthright - 12 Rolls
 dimwishlist:item=3745974521&perks=3525010810,1716000303,2010801679,3300816228#notes: QuickLaunch/Concussion/Ambitious/AutoLoading 

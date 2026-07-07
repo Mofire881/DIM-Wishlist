@@ -87,6 +87,7 @@ DIM Wishlist Perk Codes:
 3230963543 Flared
 1561002382 High-Cal
 679225683 LightMag
+1380253176 Ordnance
 409831596 Proximity
 1885400500 Ricochet
 1140096971 Seraph

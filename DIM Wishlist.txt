@@ -25,7 +25,7 @@ Index:
 [0]: Legacy Rolls
 —————————————————————————
 Berenger's Memory:
-dimwishlist:item=407621213&perks=3525010810,3301904089,2284787283,3511092054#notes: HardLaunch/Spike/Clown/Elemental(Solar)
+dimwishlist:item=407621213&perks=981914802,3301904089,2284787283,3511092054#notes: HardLaunch/Spike/Clown/Elemental(Solar)
 —————————————————————————
 —————————————————————————
 [1]: Auto Rifles 

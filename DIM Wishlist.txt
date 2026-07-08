@@ -4,6 +4,7 @@ title: Mo's God Roll Wish List
 —————————————————————————
 —————————————————————————
 Index:
+[0]: Legacy Rolls
 [1]: Auto Rifles
 [2]: Hand Cannons
 [3]: Submachine Guns
@@ -19,6 +20,12 @@ Index:
 [13]: Rocket Launchers
 [14]: Linear Fusion Rifles
 [15]: Universal Sword Rolls
+—————————————————————————
+—————————————————————————
+[0]: Legacy Rolls
+—————————————————————————
+Berenger's Memory:
+dimwishlist:item=407621213&perks=3525010810,3301904089,2284787283,3511092054#notes: HardLaunch/Spike/Clown/Elemental(Solar)
 —————————————————————————
 —————————————————————————
 [1]: Auto Rifles 
@@ -417,9 +424,6 @@ Steelfeather Repeater - My Roll
 dimwishlist:item=1251729046&perks=839105230,1885400500,2779035018,2458213969#notes: My Roll
 —————————————————————————
 —————————————————————————
-—————————————————————————
-—————————————————————————
-
 [2]: Hand Cannons 
 —————————————————————————
 The Old Fashioned - 38 Rolls
@@ -3649,8 +3653,6 @@ dimwishlist:item=3369545945&perks=2420895100,3300816228,3425386926#notes: Extend
 dimwishlist:item=3369545945&perks=2420895100,2010801679,3425386926#notes: Extended/Ambitious/Rampage
 —————————————————————————
 —————————————————————————
-—————————————————————————
-—————————————————————————
 [12]: Grenade Launchers
 —————————————————————————
 Edge Transit - 11 Rolls
@@ -3686,7 +3688,6 @@ dimwishlist:item=736901634&perks=3525010810,3301904089,3300816228,2888557110#not
 dimwishlist:item=736901634&perks=3525010810,3301904089,3300816228,2888557110#notes: QuickLaunch/Spike/FieldPrep/FullCourt 
 dimwishlist:item=736901634&perks=981914802,3301904089,3300816228,2888557110#notes: HardLaunch/Spike/AutoLoading/FullCourt 
 dimwishlist:item=736901634&perks=981914802,3301904089,3300816228,2888557110#notes: HardLaunch/Spike/FieldPrep/FullCourt 
-—————————————————————————
 —————————————————————————
 Interference VI - 9 Rolls
 dimwishlist:item=2257180473&perks=3525010810,1380253176,3300816228,2888557110#notes: QuickLaunch/Ordnance/AutoLoading/FullCourt

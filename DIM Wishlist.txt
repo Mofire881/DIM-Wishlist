@@ -27,6 +27,14 @@ Index:
 Berenger's Memory:
 dimwishlist:item=407621213&perks=981914802,3301904089,2284787283,3511092054#notes: HardLaunch/Spike/Clown/Elemental(Solar)
 —————————————————————————
+Gahlran's Right Hand:
+dimwishlist:item=1286686760&perks=1392496348,1885400500,1168162263,2458213969#notes: Polygonal/Ricochet/Outlaw/MultiKillClip
+—————————————————————————
+Imperative:
+dimwishlist:item=2314999489&perks=3661387068,4134353779,1820235745,3425386926#notes: Chambered/DropMag/Subsistence/Rampage
+—————————————————————————
+Breachlight:
+dimwishlist:item=1289997971&perks=3661387068,3142289711,1168162263,2458213969#notes: Chambered/Accurized/Outlaw/MultiKillClip
 —————————————————————————
 [1]: Auto Rifles 
 —————————————————————————

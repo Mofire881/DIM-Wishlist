@@ -83,7 +83,7 @@ DIM Wishlist Perk Codes:
 3032599245 Blinding
 1716000303 Concussion
 4134353779 DropMag
-2420895100 Extended
+2420895100 ExtendedMag
 3230963543 Flared
 1561002382 High-Cal
 679225683 LightMag

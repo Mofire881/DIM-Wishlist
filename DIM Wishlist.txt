@@ -36,6 +36,15 @@ dimwishlist:item=2314999489&perks=3661387068,4134353779,1820235745,3425386926#no
 Breachlight:
 dimwishlist:item=1289997971&perks=3661387068,3142289711,1168162263,2458213969#notes: Chambered/Accurized/Outlaw/MultiKillClip
 —————————————————————————
+Arctic Haze:
+dimwishlist:item=20935540&perks=3661387068,2420895100,1168162263,2848615171#notes: Chambered/ExtendedMag/Outlaw/Dragonfly
+—————————————————————————
+Tyranny of Heaven:
+dimwishlist:item=2721249463&perks=852209214,3827198035,201365942,3425386926#notes: Polymer/Straight/ArchTempo/Rampage
+—————————————————————————
+Martyr's Retribution:
+dimwishlist:item=3850168899&perks=981914802,3300816228,3523296417#notes: HardLaunch/AutoLoading/Demolitionist
+—————————————————————————
 [1]: Auto Rifles 
 —————————————————————————
 Halfdan-D - 43 Rolls

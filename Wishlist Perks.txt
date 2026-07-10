@@ -96,6 +96,7 @@ DIM Wishlist Perk Codes:
 3177308360 Steady
 106909392 TacMag
 ---
+1226351311 AllStar
 2010801679 Ambitious
 3300816228 AutoLoading
 1600092898 BackupPlan
@@ -119,7 +120,9 @@ DIM Wishlist Perk Codes:
 1866048759 HipFire
 1015611457 KillClip
 2450788523 KillingWind
+3891536761 KineticTremors
 1556840489 LeadFromGold
+2305480722 MegaKillClip
 2458213969 MultiKillClip
 588594999 MovingTarget
 2866798147 NoDistractions
@@ -132,8 +135,10 @@ DIM Wishlist Perk Codes:
 247725512 RapidHit
 2846385770 Rangefinder
 3425386926 Rampage
+3700496672 ShootToLoot
 3161816588 Slideshot
 2039302152 Slideways
+1517798362 StoppingPower
 1820235745 Subsistence
 3708227201 Surrounded
 957782887 Snapshot

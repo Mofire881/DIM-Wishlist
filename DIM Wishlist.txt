@@ -434,6 +434,38 @@ dimwishlist:item=1251729046&perks=839105230,1885400500,2779035018,2458213969#not
 —————————————————————————
 [2]: Hand Cannons 
 —————————————————————————
+Service Revolver - 30 Rolls
+dimwishlist:item=3796682229&perks=3142289711,2846385770,2305480722#notes= Accurized/Rangefinder/MegaKillClip
+dimwishlist:item=3796682229&perks=3142289711,2846385770,47981717#notes= Accurized/Rangefinder/OpeningShot
+dimwishlist:item=3796682229&perks=3142289711,2846385770,3038247973#notes= Accurized/Rangefinder/Explosive
+dimwishlist:item=3796682229&perks=3142289711,1168162263,2305480722#notes= Accurized/Outlaw/MegaKillClip
+dimwishlist:item=3796682229&perks=3142289711,588594999,2305480722#notes= Accurized/MovingTarget/MegaKillClip
+dimwishlist:item=3796682229&perks=3142289711,588594999,47981717#notes= Accurized/MovingTarget/OpeningShot
+dimwishlist:item=3796682229&perks=3142289711,588594999,3038247973#notes= Accurized/MovingTarget/Explosive
+dimwishlist:item=3796682229&perks=1087426260,247725512,2305480722#notes= Appended/RapidHit/MegaKillClip
+dimwishlist:item=3796682229&perks=1087426260,247725512,3425386926#notes= Appended/RapidHit/Rampage
+dimwishlist:item=3796682229&perks=1087426260,247725512,3891536761#notes= Appended/RapidHit/KineticTremors
+dimwishlist:item=3796682229&perks=1087426260,247725512,3038247973#notes= Appended/RapidHit/Explosive
+dimwishlist:item=3796682229&perks=1087426260,1168162263,2305480722#notes= Appended/Outlaw/MegaKillClip
+dimwishlist:item=3796682229&perks=1087426260,1168162263,3425386926#notes= Appended/Outlaw/Rampage
+dimwishlist:item=3796682229&perks=1087426260,1168162263,3891536761#notes= Appended/Outlaw/KineticTremors
+dimwishlist:item=3796682229&perks=1087426260,1168162263,3038247973#notes= Appended/Outlaw/Explosive
+dimwishlist:item=3796682229&perks=1087426260,3700496672,1226351311#notes= Appended/ShootToLoot/AllStar
+dimwishlist:item=3796682229&perks=1087426260,1517798362,3891536761#notes= Appended/StoppingPower/KineticTremors
+dimwishlist:item=3796682229&perks=106909392,247725512,2305480722#notes= TacMag/RapidHit/MegaKillClip
+dimwishlist:item=3796682229&perks=106909392,247725512,3425386926#notes= TacMag/RapidHit/Rampage
+dimwishlist:item=3796682229&perks=106909392,247725512,3891536761#notes= TacMag/RapidHit/KineticTremors
+dimwishlist:item=3796682229&perks=106909392,247725512,3038247973#notes= TacMag/RapidHit/Explosive
+dimwishlist:item=3796682229&perks=106909392,3700496672,1226351311#notes= TacMag/ShootToLoot/AllStar
+dimwishlist:item=3796682229&perks=106909392,1517798362,3891536761#notes= TacMag/StoppingPower/KineticTremors
+dimwishlist:item=3796682229&perks=2420895100,3700496672,1226351311#notes= ExtendedMag/ShootToLoot/AllStar
+dimwishlist:item=3796682229&perks=3230963543,247725512,2305480722#notes= Flared/RapidHit/MegaKillClip
+dimwishlist:item=3796682229&perks=3230963543,247725512,3425386926#notes= Flared/RapidHit/Rampage
+dimwishlist:item=3796682229&perks=3230963543,247725512,3891536761#notes= Flared/RapidHit/KineticTremors
+dimwishlist:item=3796682229&perks=3230963543,247725512,3038247973#notes= Flared/RapidHit/Explosive
+dimwishlist:item=3796682229&perks=3230963543,3700496672,1226351311#notes= Flared/ShootToLoot/AllStar
+dimwishlist:item=3796682229&perks=3230963543,1517798362,3891536761#notes= Flared/StoppingPower/KineticTremors
+—————————————————————————
 The Old Fashioned - 38 Rolls
 dimwishlist:item=3569802112&perks=106909392,3161816588,1015611457#notes: TacMag/Slideshot/KillClip
 dimwishlist:item=3569802112&perks=106909392,3523296417,1015611457#notes: TacMag/Demolitionist/KillClip
@@ -1177,7 +1209,7 @@ dimwishlist:item=4077196130&perks=3177308360,47981717,2387244414#notes: Steady/O
 dimwishlist:item=4077196130&perks=3177308360,957782887,3038247973#notes: Steady/Snapshot/Explosive
 dimwishlist:item=4077196130&perks=3177308360,957782887,247725512#notes: Steady/Snapshot/RapidHit
 —————————————————————————
-Service Revolver - 43 Rolls
+Service Revolver (Legacy) - 43 Rolls
 dimwishlist:item=834081972&perks=2420895100,1168162263,1015611457#notes: Extended/Outlaw/KillClip
 dimwishlist:item=834081972&perks=2420895100,1168162263,3425386926#notes: Extended/Outlaw/Rampage
 dimwishlist:item=834081972&perks=2420895100,247725512,1015611457#notes: Extended/RapidHit/KillClip

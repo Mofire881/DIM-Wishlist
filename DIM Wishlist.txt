@@ -3999,5 +3999,16 @@ dimwishlist:item= -69420&perks=3708227201,354401740#notes: Surrounded/Assassin
 [16]: Swords
 —————————————————————————
 —————————————————————————
-Aurora Dawn - X Rolls
-dimwishlist:item=
+Aurora Dawn - 11 Rolls
+dimwishlist:item=2111625436&perks=1546142478,3913600130#notes: SharpHarvest/Whirlwind
+dimwishlist:item=2111625436&perks=2590710093,1089671869#notes: Tireless/ElementalHoning
+dimwishlist:item=2111625436&perks=2590710093,1546142478#notes: Tireless/BinaryOrbit
+dimwishlist:item=2111625436&perks=2590710093,4049631843#notes: Tireless/OneForAll
+dimwishlist:item=2111625436&perks=2590710093,3913600130#notes: Tireless/Whirlwind
+dimwishlist:item=2111625436&perks=2244851822,3650930298#notes: FlashCounter/ColdSteel
+dimwishlist:item=2111625436&perks=1955165503,3650930298#notes: Rimestealer/ColdSteel
+dimwishlist:item=2111625436&perks=4190679284,1089671869#notes: ProximityPower/ElementalHoning
+dimwishlist:item=2111625436&perks=4190679284,1546142478#notes: ProximityPower/BinaryOrbit
+dimwishlist:item=2111625436&perks=4190679284,4049631843#notes: ProximityPower/OneForAll
+dimwishlist:item=2111625436&perks=3108830275,4049631843#notes: Unrelenting/OneForAll
+

@@ -105,6 +105,7 @@ DIM Wishlist Perk Codes:
 2284787283 Clown
 3650930298 ColdSteel
 3523296417 Demolitionist
+2109543898 Desperate
 1683379515 Disruption
 1359896290 DynamicSway
 2848615171 Dragonfly
@@ -121,11 +122,16 @@ DIM Wishlist Perk Codes:
 4267945040 FullAuto
 863260328 Genesis
 1631667848 GraveRobber
+831391274 Hatchling
+460017080 Headseeker
 1866048759 HipFire
+3619207468 KeepAway
 1015611457 KillClip
 2450788523 KillingWind
 3891536761 KineticTremors
 1556840489 LeadFromGold
+1570399071 LeadFromLight
+2054520291 LuckyShot
 2305480722 MegaKillClip
 2458213969 MultiKillClip
 588594999 MovingTarget
@@ -144,6 +150,7 @@ DIM Wishlist Perk Codes:
 1955165503 Rimestealer
 4132187021 SharpHarvest
 3700496672 ShootToLoot
+923806249 Slice
 3161816588 Slideshot
 2039302152 Slideways
 1517798362 StoppingPower
@@ -157,6 +164,7 @@ DIM Wishlist Perk Codes:
 2590710093 Tireless
 2360754333 TrenchBarrel
 3400784728 TripleTap
+1645158859 UnderPressure
 3108830275 Unrelenting
 1546637391 Vorpal
 3913600130 Whirlwind

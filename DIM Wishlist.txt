@@ -52,10 +52,14 @@ dimwishlist:item=4138174248&perks=1885400500,1168162263,3425386926#notes: Ricoch
 Persuader:
 dimwishlist:item=4083045006&perks=2420895100,247725512,3400784728#notes: ExtendedMag/RapidHit/TripleTap
 —————————————————————————
-Dead Man Walking XX7463
+Dead Man Walking XX7463:
 dimwishlist:item=3751622019&perks=1087426260,1168162263,1015611457#notes: Appended/Outlaw/KillClip
 —————————————————————————
 dimwishlist:item=2990047042&perks=106909392,1523832109,469285294#notes: TacMag/Reconstruction/Recombination
+—————————————————————————
+Cold Front:
+dimwishlist:item=1506719573&perks=3230963543,2779035018,1015611457#notes: Flared/FeedingFrenzy/KillClip
+—————————————————————————
 —————————————————————————
 —————————————————————————
 [1]: Auto Rifles 

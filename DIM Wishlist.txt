@@ -63,6 +63,10 @@ dimwishlist:item=1506719573&perks=3230963543,2779035018,1015611457#notes: Flared
 Elegy-49:
 dimwishlist:item=1873270090&perks=3142289711,957782887,588594999#notes: Accurized/Snapshot/MovingTarget
 —————————————————————————
+Trophy Hunter:
+dimwishlist:item=4166221755&perks=1087426260,3400784728,1546637391#notes: Appended/TripleTap/Vorpal
+—————————————————————————
+—————————————————————————
 —————————————————————————
 [1]: Auto Rifles 
 —————————————————————————

@@ -60,6 +60,8 @@ dimwishlist:item=2990047042&perks=106909392,1523832109,469285294#notes: TacMag/R
 Cold Front:
 dimwishlist:item=1506719573&perks=3230963543,2779035018,1015611457#notes: Flared/FeedingFrenzy/KillClip
 —————————————————————————
+Elegy-49:
+dimwishlist:item=1873270090&perks=3142289711,957782887,588594999#notes: Accurized/Snapshot/MovingTarget
 —————————————————————————
 —————————————————————————
 [1]: Auto Rifles 

@@ -49,6 +49,13 @@ dimwishlist:item=3850168899&perks=981914802,3300816228,3523296417#notes: HardLau
 Go Figure:
 dimwishlist:item=4138174248&perks=1885400500,1168162263,3425386926#notes: Ricochet/Outlaw/Rampage
 —————————————————————————
+Persuader:
+dimwishlist:item=4083045006&perks=2420895100,247725512,3400784728#notes: ExtendedMag/RapidHit/TripleTap
+—————————————————————————
+Dead Man Walking XX7463
+dimwishlist:item=3751622019&perks=1087426260,1168162263,1015611457#notes: Appended/Outlaw/KillClip
+—————————————————————————
+—————————————————————————
 [1]: Auto Rifles 
 —————————————————————————
 Halfdan-D - 43 Rolls

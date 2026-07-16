@@ -73,7 +73,7 @@ dimwishlist:item=211938782&perks=201365942,4082225868#notes: ArchTempo/Swashbuck
 Avalanche:
 dimwishlist:item=66875353&perks=2420895100,3300816228,1546637391#notes: ExtendedMag/AutoLoading/Vorpal
 dimwishlist:item=66875353&perks=1561002382,1631667848,4082225868#notes: High-Cal/GraveRobber/Swashbuckler
-dimwishlist:item=66875353&perks=1885400500,2387244414,1890422124#notes: Ricochet/ZenMoment/TapTheTrigger
+dimwishlist:item=66875353&perks=1885400500,2387244414,47981717#notes: Ricochet/ZenMoment/OpeningShot
 —————————————————————————
 —————————————————————————
 [1]: Auto Rifles 

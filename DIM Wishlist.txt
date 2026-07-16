@@ -3895,11 +3895,11 @@ dimwishlist:item=136525518&perks=3525010810,3796465595,2869569095,3977735242#not
 dimwishlist:item=136525518&perks=3525010810,3796465595,2869569095,3523296417#notes:QuickLaunch/ImpactCasing/FieldPrep/Demolitionist
 —————————————————————————
 Apex Predator - 5 Rolls
-dimwishlist:item=2545083870&perks=3525010810,1996142143,3977735242,3458972548#notes:QuickLaunch/BlackPowder/Tracking/Snapshot
+dimwishlist:item=2545083870&perks=3525010810,1996142143,3977735242,957782887#notes:QuickLaunch/BlackPowder/Tracking/Snapshot
 dimwishlist:item=2545083870&perks=3525010810,3796465595,3977735242,3300816228#notes:QuickLaunch/ImpactCasing/Tracking/AutoLoading
 dimwishlist:item=2545083870&perks=3525010810,3796465595,3096702027,3300816228#notes:QuickLaunch/ImpactCasing/Genesis/AutoLoading
 dimwishlist:item=2545083870&perks=3525010810,3796465595,2010801679,3300816228#notes:QuickLaunch/ImpactCasing/Ambitious/AutoLoading
-dimwishlist:item=2545083870&perks=1478423395,1996142143,3977735242,3458972548#notes:Volatile/BlackPowder/Tracking/Snapshot
+dimwishlist:item=2545083870&perks=1478423395,1996142143,3977735242,957782887#notes:Volatile/BlackPowder/Tracking/Snapshot
 —————————————————————————
 Pyroclastic Flow - 10 Rolls
 dimwishlist:item=1289324202&perks=981914802,3796465595,706527188,1275731761#notes:HardLaunch/ImpactCasing/Quickdraw/ClusterBomb

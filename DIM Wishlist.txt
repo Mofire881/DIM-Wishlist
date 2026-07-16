@@ -3854,6 +3854,7 @@ dimwishlist:item=3776129137&perks=1478423395,1996142143,3458972548,1275731761#no
 dimwishlist:item=3776129137&perks=981914802,2985827016,2869569095,706527188#notes:HardLaunch/AlloyCasing/FieldPrep/Quickdraw
 dimwishlist:item=3776129137&perks=981914802,3796465595,3300816228,706527188#notes:HardLaunch/ImpactCasing/AutoLoading/Quickdraw
 dimwishlist:item=3776129137&perks=981914802,3796465595,2869569095,706527188#notes:HardLaunch/ImpactCasing/FieldPrep/Quickdraw
+dimwishlist:item=3776129137&perks=981914802,3796465595,3300816228,1275731761#notes:HardLaunch/ImpactCasing/AutoLoading/ClusterBomb
 dimwishlist:item=3776129137&perks=3525010810,2985827016,2869569095,1275731761#notes:QuickLaunch/AlloyCasing/FieldPrep/ClusterBomb
 dimwishlist:item=3776129137&perks=3525010810,2985827016,2869569095,2010801679#notes:QuickLaunch/AlloyCasing/FieldPrep/Ambitious
 dimwishlist:item=3776129137&perks=3525010810,1996142143,3458972548,1275731761#notes:QuickLaunch/BlackPowder/Snapshot/ClusterBomb

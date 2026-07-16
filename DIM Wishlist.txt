@@ -3841,7 +3841,7 @@ dimwishlist:item=1946491241&perks=3525010810,1716000303,2779035018,2458213969#no
 —————————————————————————
 [13]: Rocket Launchers 
 —————————————————————————
-Mos Epoch III - 16 Rolls
+Mos Epoch III - 17* Rolls
 dimwishlist:item=1529450902&perks=3525010810,2985827016,3977735242,1275731761#notes:QuickLaunch/AlloyCasing/Tracking/ClusterBomb
 dimwishlist:item=1529450902&perks=3525010810,2985827016,3977735242,1683379515#notes:QuickLaunch/AlloyCasing/Tracking/DisruptionBreak
 dimwishlist:item=1529450902&perks=3525010810,2985827016,3096702027,1275731761#notes:QuickLaunch/AlloyCasing/Genesis/CluserBomb
@@ -3853,6 +3853,8 @@ dimwishlist:item=1529450902&perks=3525010810,3796465595,3096702027,1275731761#no
 dimwishlist:item=1529450902&perks=3525010810,1996142143,3977735242,1275731761#notes:QuickLaunch/BlackPowder/Tracking/ClusterBomb
 dimwishlist:item=1529450902&perks=981914802,3796465595,3300816228,706527188#notes:HardLaunch/ImpactCasing/AutoLoading/Quickdraw
 dimwishlist:item=1529450902&perks=1478423395,1996142143,3977735242,1275731761#notes:Volatile/BlackPowder/Tracking/ClusterBomb
+
+dimwishlist:item=1529450902&perks=3525010810,3796465595,3096702027,1683379515#notes: QuickLaunch/ImpactCasing/Genesis/DisruptionBreak
 —————————————————————————
 Zenobia-D - 11 Rolls
 dimwishlist:item=3776129137&perks=1478423395,1996142143,3458972548,1275731761#notes:Volatile/BlackPowder/Snapshot/ClusterBomb

@@ -77,7 +77,7 @@ Deafening Whisper:
 dimwishlist:item=981718087&perks=3300816228,1556840489#notes: AutoLoading/LeadFromGold
 —————————————————————————
 Hammerhead:
-dimwishlist:item= 603242241&perks=1561002382,1890422124,3425386926#notes: High-Cal/TapTheTrigger/Rampage
+dimwishlist:item=603242241&perks=1561002382,1890422124,3425386926#notes: High-Cal/TapTheTrigger/Rampage
 —————————————————————————
 —————————————————————————
 —————————————————————————

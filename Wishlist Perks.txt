@@ -86,6 +86,7 @@ DIM Wishlist Perk Codes:
 2420895100 ExtendedMag
 3230963543 Flared
 1561002382 High-Cal
+1556840489 LeadFromGold
 679225683 LightMag
 332133599 MiniFrags
 1380253176 Ordnance

@@ -97,6 +97,7 @@ DIM Wishlist Perk Codes:
 3177308360 Steady
 106909392 TacMag
 ---
+11612903 AdrenalineJunkie
 1226351311 AllStar
 2010801679 Ambitious
 3300816228 AutoLoading
@@ -126,14 +127,17 @@ DIM Wishlist Perk Codes:
 831391274 Hatchling
 460017080 Headseeker
 1866048759 HipFire
+4293542123 Incandescent
 3619207468 KeepAway
 1015611457 KillClip
 2450788523 KillingWind
 3891536761 KineticTremors
 1556840489 LeadFromGold
 1570399071 LeadFromLight
+2458610193 LightTouch
 2054520291 LuckyShot
 2305480722 MegaKillClip
+657025441 Meganeura
 2458213969 MultiKillClip
 588594999 MovingTarget
 2866798147 NoDistractions
@@ -148,6 +152,7 @@ DIM Wishlist Perk Codes:
 247725512 RapidHit
 2846385770 Rangefinder
 3425386926 Rampage
+3713215006 RecycledEnergy
 1955165503 Rimestealer
 4132187021 SharpHarvest
 3700496672 ShootToLoot

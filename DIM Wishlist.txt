@@ -1,5 +1,7 @@
 title: Mo's God Roll Wish List
 —————————————————————————
+Test Roll:
+dimwishlist:item=1041028434#notes: Legacy Roll Test
 —————————————————————————
 Index:
 [0]: Legacy Rolls

@@ -126,6 +126,7 @@ DIM Wishlist Perk Codes:
 1631667848 GraveRobber
 831391274 Hatchling
 460017080 Headseeker
+3017780555 HealClip
 1866048759 HipFire
 4293542123 Incandescent
 3619207468 KeepAway

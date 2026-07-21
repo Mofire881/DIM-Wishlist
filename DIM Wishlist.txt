@@ -2102,6 +2102,25 @@ dimwishlist:item=2222560548&perks=3177308360,1359896290,1890422124#notes: Steady
 —————————————————————————
 [4]: Sidearms 
 —————————————————————————
+Punching Out - 17 Rolls
+dimwishlist:item=1469372193&perks=3523296417,11612903#notes: Demolitionist/AdrenalineJunkie
+dimwishlist:item=1469372193&perks=3017780555,2779035018#notes: HealClip/FeedingFrenzy
+dimwishlist:item=1469372193&perks=3017780555,1015611457#notes: HealClip/KillClip
+dimwishlist:item=1469372193&perks=3713215006,2779035018#notes: RecycledEnergy/FeedingFrenzy
+dimwishlist:item=1469372193&perks=3713215006,1015611457#notes: RecycledEnergy/KillClip
+dimwishlist:item=1469372193&perks=2458610193,4293542123#notes: LightTouch/Incandescent
+dimwishlist:item=1469372193&perks=2458610193,1546142478#notes: LightTouch/BinaryOrbit
+dimwishlist:item=1469372193&perks=2458610193,657025441#notes: LightTouch/Meganeura
+dimwishlist:item=1469372193&perks=2458610193,4082225868#notes: LightTouch/Swashbuckler
+dimwishlist:item=1469372193&perks=1820235745,4293542123#notes: Subsistence/Incandescent
+dimwishlist:item=1469372193&perks=1820235745,1546142478#notes: Subsistence/BinaryOrbit
+dimwishlist:item=1469372193&perks=1820235745,657025441#notes: Subsistence/Meganeura
+dimwishlist:item=1469372193&perks=1820235745,4082225868#notes: Subsistence/Swashbuckler
+dimwishlist:item=1469372193&perks=3643424744,4293542123#notes: Overflow/Incandescent
+dimwishlist:item=1469372193&perks=3643424744,1546142478#notes: Overflow/BinaryOrbit
+dimwishlist:item=1469372193&perks=3643424744,657025441#notes: Overflow/Meganeura
+dimwishlist:item=1469372193&perks=3643424744,4082225868#notes: Overflow/Swashbuckler
+—————————————————————————
 Smuggler's Word - 46 Rolls
 dimwishlist:item=1843044399&perks=1561002382,4267945040,1890422124#notes:High-Cal/FullAuto/TapTheTrigger
 dimwishlist:item=1843044399&perks=1561002382,1168162263,1015611457#notes:High-Cal/Outlaw/KillClip 
@@ -2559,9 +2578,6 @@ dimwishlist:item=3937866388&perks=1482024992,3230963543,3523296417,3708227201#no
 dimwishlist:item=3937866388&perks=1482024992,3230963543,4071163871,1546637391#notes: Smallbore/FlaredMag/ThreatDetector/Vorpal
 dimwishlist:item=3937866388&perks=1482024992,3230963543,4071163871,2848615171#notes: Smallbore/FlaredMag/ThreatDetector/Dragonfly
 dimwishlist:item=3937866388&perks=1482024992,3230963543,4071163871,3708227201#notes: Smallbore/FlaredMag/ThreatDetector/Surrounded
-—————————————————————————
-Anonymous Autumn 
-—————————————————————————
 —————————————————————————
 —————————————————————————
 [5]: Shotguns

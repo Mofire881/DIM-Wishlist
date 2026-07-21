@@ -1257,51 +1257,6 @@ dimwishlist:item=4077196130&perks=3177308360,47981717,2387244414#notes: Steady/O
 dimwishlist:item=4077196130&perks=3177308360,957782887,3038247973#notes: Steady/Snapshot/Explosive
 dimwishlist:item=4077196130&perks=3177308360,957782887,247725512#notes: Steady/Snapshot/RapidHit
 —————————————————————————
-Service Revolver (Legacy) - 43 Rolls
-dimwishlist:item=834081972&perks=2420895100,1168162263,1015611457#notes: Extended/Outlaw/KillClip
-dimwishlist:item=834081972&perks=2420895100,1168162263,3425386926#notes: Extended/Outlaw/Rampage
-dimwishlist:item=834081972&perks=2420895100,247725512,1015611457#notes: Extended/RapidHit/KillClip
-dimwishlist:item=834081972&perks=2420895100,247725512,3425386926#notes: Extended/RapidHit/Rampage
-dimwishlist:item=834081972&perks=1087426260,1168162263,1015611457#notes: Appended/Outlaw/KillClip
-dimwishlist:item=834081972&perks=1087426260,1168162263,3425386926#notes: Appended/Outlaw/Rampage
-dimwishlist:item=834081972&perks=1087426260,247725512,1015611457#notes: Appendedd/RapidHit/KillClip
-dimwishlist:item=834081972&perks=1087426260,247725512,3425386926#notes: Appended/RapidHit/Rampage
-dimwishlist:item=834081972&perks=1561002382,247725512,1015611457#notes: High-Cal/RapidHit/KillClip
-dimwishlist:item=834081972&perks=1561002382,247725512,3425386926#notes: High-Cal/RapidHit/Rampage
-dimwishlist:item=834081972&perks=1561002382,247725512,2387244414#notes: High-Cal/RapidHit/ZenMoment
-dimwishlist:item=834081972&perks=1561002382,247725512,47981717#notes: High-Cal/RapidHit/Opening
-dimwishlist:item=834081972&perks=1561002382,247725512,957782887#notes: High-Cal/RapidHit/Snapshot
-dimwishlist:item=834081972&perks=1561002382,588594999,2387244414#notes: High-Cal/MovingTarget/ZenMoment
-dimwishlist:item=834081972&perks=1561002382,588594999,47981717#notes: High-Cal/MovingTarget/Opening
-dimwishlist:item=834081972&perks=1561002382,588594999,957782887#notes: High-Cal/MovingTarget/Snapshot
-dimwishlist:item=834081972&perks=1561002382,2846385770,2387244414#notes: High-Cal/Rangefinder/ZenMoment
-dimwishlist:item=834081972&perks=1561002382,2846385770,47981717#notes: High-Cal/Rangefinder/Opening
-dimwishlist:item=834081972&perks=1561002382,2846385770,957782887#notes: High-Cal/Rangefinder/Snapshot
-dimwishlist:item=834081972&perks=679225683,588594999,1015611457#notes: LightMag/MovingTarget/KillClip
-dimwishlist:item=834081972&perks=679225683,2846385770,1015611457#notes: LightMag/Rangefinder/KillClip
-dimwishlist:item=834081972&perks=1885400500,247725512,1015611457#notes: Ricochet/RapidHit/KillClip
-dimwishlist:item=834081972&perks=1885400500,247725512,2387244414#notes: Ricochet/RapidHit/ZenMoment
-dimwishlist:item=834081972&perks=1885400500,247725512,47981717#notes: Ricochet/RapidHit/Opening
-dimwishlist:item=834081972&perks=1885400500,247725512,957782887#notes: Ricochet/RapidHit/Snapshot
-dimwishlist:item=834081972&perks=1885400500,588594999,2387244414#notes: Ricochet/MovingTarget/ZenMoment
-dimwishlist:item=834081972&perks=1885400500,588594999,47981717#notes: Ricochet/MovingTarget/Opening
-dimwishlist:item=834081972&perks=1885400500,588594999,957782887#notes: Ricochet/MovingTarget/Snapshot
-dimwishlist:item=834081972&perks=1885400500,2846385770,2387244414#notes: Ricochet/Rangefinder/ZenMoment
-dimwishlist:item=834081972&perks=1885400500,2846385770,47981717#notes: Ricochet/Rangefinder/Opening
-dimwishlist:item=834081972&perks=1885400500,2846385770,957782887#notes: Ricochet/Rangefinder/Snapshot
-dimwishlist:item=834081972&perks=3142289711,247725512,1015611457#notes: Accurized/RapidHit/KillClip
-dimwishlist:item=834081972&perks=3142289711,247725512,2387244414#notes: Accurized/RapidHit/ZenMoment
-dimwishlist:item=834081972&perks=3142289711,247725512,47981717#notes: Accurized/RapidHit/Opening
-dimwishlist:item=834081972&perks=3142289711,247725512,957782887#notes: Accurized/RapidHit/Snapshot
-dimwishlist:item=834081972&perks=3142289711,588594999,2387244414#notes: Accurized/MovingTarget/ZenMoment
-dimwishlist:item=834081972&perks=3142289711,588594999,47981717#notes: Accurized/MovingTarget/Opening
-dimwishlist:item=834081972&perks=3142289711,588594999,957782887#notes: Accurized/MovingTarget/Snapshot
-dimwishlist:item=834081972&perks=3142289711,2846385770,2387244414#notes: Accurized/Rangefinder/ZenMoment
-dimwishlist:item=834081972&perks=3142289711,2846385770,47981717#notes: Accurized/Rangefinder/Opening
-dimwishlist:item=834081972&perks=3142289711,2846385770,957782887#notes: Accurized/Rangefinder/Snapshot
-dimwishlist:item=834081972&perks=3230963543,588594999,1015611457#notes: FlaredMag/MovingTarget/KillClip
-dimwishlist:item=834081972&perks=3230963543,2846385770,1015611457#notes: FlaredMag/Rangefinder/KillClip
-—————————————————————————
 Kindled Orchid - 111 Rolls
 dimwishlist:item=2575506895&perks=3250034553,3142289711,1015611457,247725512#notes:HammerForged/Accurized/KillClip/RapidHit 
 dimwishlist:item=2575506895&perks=3250034553,3142289711,1015611457,3038247973#notes:HammerForged/Accurized/KillClip/Explosive

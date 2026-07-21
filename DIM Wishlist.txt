@@ -1,7 +1,7 @@
 title: Mo's God Roll Wish List
 —————————————————————————
 Test Roll:
-dimwishlist:item=1041028434&perks=3142289711#notes: Legacy Roll Test
+dimwishlist:item=882778888#notes: Legacy Roll Test
 —————————————————————————
 Index:
 [0]: Legacy Rolls

@@ -86,6 +86,20 @@ dimwishlist:item=2009277538&perks=1087426260,1168162263,1015611457#notes: Append
 —————————————————————————
 [1]: Auto Rifles 
 —————————————————————————
+Pluperfect - 12 Rolls
+dimwishlist:item=2203881482&perks=3523296417,11612903#notes: Demolitionist/AdrenalineJunkie
+dimwishlist:item=2203881482&perks=1517798362,3891536761#notes: StoppingPower/KineticTremors
+dimwishlist:item=2203881482&perks=3418782618,3764420437#notes: RewindRounds/AggregateCharge
+dimwishlist:item=2203881482&perks=3418782618,3252937884#notes: RewindRounds/AdhesiveOrdnance
+dimwishlist:item=2203881482&perks=3418782618,1226351311#notes: RewindRounds/AllStar
+dimwishlist:item=2203881482&perks=3418782618,3425386926#notes: RewindRounds/Rampage
+dimwishlist:item=2203881482&perks=1359896290,1194056669#notes: DynamicSway/ClosingTime
+dimwishlist:item=2203881482&perks=2846385770,1194056669#notes: RangeFinder/ClosingTime
+dimwishlist:item=2203881482&perks=1168162263,3764420437#notes: Outlaw/AggregateCharge
+dimwishlist:item=2203881482&perks=1168162263,3252937884#notes: Outlaw/AdhesiveOrdnance
+dimwishlist:item=2203881482&perks=1168162263,1226351311#notes: Outlaw/AllStar
+dimwishlist:item=2203881482&perks=1168162263,3425386926#notes: Outlaw/Rampage
+—————————————————————————
 Halfdan-D - 43 Rolls
 dimwishlist:item=1518042134&perks=2054312700,106909392,1359896290,1015611457#notes:SCHolo/TacMag/DynamSwayReduc/KillClip
 dimwishlist:item=1518042134&perks=2054312700,106909392,1359896290,588594999#notes:SCHolo/TacMag/DynamSwayReduc/MovingTarget 

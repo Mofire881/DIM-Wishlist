@@ -124,8 +124,10 @@ DIM Wishlist Perk Codes:
 4267945040 FullAuto
 863260328 Genesis
 1631667848 GraveRobber
+438098033 Harmony
 831391274 Hatchling
 460017080 Headseeker
+124408337 Headstone
 3017780555 HealClip
 1866048759 HipFire
 4293542123 Incandescent
@@ -147,6 +149,8 @@ DIM Wishlist Perk Codes:
 47981717 OpeningShot
 1168162263 Outlaw
 3643424744 Overflow
+2272927194 PerfectFloat
+1428297954 PerpetualMotion
 4190679284 ProximityPower
 972757866 PulseMonitor
 706527188 Quickdraw
@@ -166,6 +170,7 @@ DIM Wishlist Perk Codes:
 957782887 Snapshot
 4082225868 Swashbuckler
 1890422124 TapTheTrigger
+365154968 TargetLock
 4071163871 ThreatDetector
 1954620775 TimedPayload
 2590710093 Tireless

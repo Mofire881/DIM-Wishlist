@@ -97,13 +97,16 @@ DIM Wishlist Perk Codes:
 3177308360 Steady
 106909392 TacMag
 ---
+3252937884 AdhesiveOrdnance
 11612903 AdrenalineJunkie
+3764420437 AggregateCharge
 1226351311 AllStar
 2010801679 Ambitious
 3300816228 AutoLoading
 1600092898 BackupPlan
 1546142478 BinaryOrbit
 2551157718 BoxBreathing
+1194056669 ClosingTime
 2284787283 Clown
 3650930298 ColdSteel
 3523296417 Demolitionist
@@ -158,6 +161,7 @@ DIM Wishlist Perk Codes:
 2846385770 Rangefinder
 3425386926 Rampage
 3713215006 RecycledEnergy
+3418782618 RewindRounds
 1955165503 Rimestealer
 4132187021 SharpHarvest
 3700496672 ShootToLoot

@@ -220,6 +220,65 @@ dimwishlist:item=2681395357&perks=679225683,1890422124,1015611457#notes: LightMa
 dimwishlist:item=2681395357&perks=679225683,706527188,1015611457#notes: LightMag/Quickdraw/KillClip
 dimwishlist:item=2681395357&perks=679225683,2039302152,1015611457#notes: LightMag/Slideways/KillClip
 —————————————————————————
+Does Not Compute - 57 Rolls
+dimwishlist:item=2278995296&perks=13792279,106909392,3400784728,3425386926#notes: CleanshotIS/TacMag/TripleTap/Rampage
+dimwishlist:item=2278995296&perks=13792279,106909392,2387244414,1015611457#notes: CleanshotIS/TacMag/ZenMoment/KillClip
+dimwishlist:item=2278995296&perks=13792279,106909392,2387244414,47981717#notes: CleanshotIS/TacMag/ZenMoment/OpeningShot
+dimwishlist:item=2278995296&perks=13792279,106909392,588594999,1015611457#notes: CleanshotIS/TacMag/MovingTarget/KillClip
+dimwishlist:item=2278995296&perks=13792279,106909392,588594999,47981717#notes: CleanshotIS/TacMag/MovingTarget/OpeningShot
+dimwishlist:item=2278995296&perks=13792279,3230963543,3400784728,3425386926#notes: CleanshotIS/FlaredMag/TripleTap/Rampage
+dimwishlist:item=2278995296&perks=13792279,3230963543,2387244414,1015611457#notes: CleanshotIS/FlaredMag/ZenMoment/KillClip
+dimwishlist:item=2278995296&perks=13792279,3230963543,588594999,1015611457#notes: CleanshotIS/FlaredMag/MovingTarget/KillClip
+dimwishlist:item=2278995296&perks=13792279,3177308360,2387244414,1015611457#notes: CleanshotIS/Steady/ZenMoment/KillClip
+dimwishlist:item=2278995296&perks=13792279,3177308360,2387244414,47981717#notes: CleanshotIS/Steady/ZenMoment/OpeningShot
+dimwishlist:item=2278995296&perks=13792279,3177308360,588594999,1015611457#notes: CleanshotIS/Steady/MovingTarget/KillClip
+dimwishlist:item=2278995296&perks=13792279,3177308360,588594999,47981717#notes: CleanshotIS/Steady/MovingTarget/OpeningShot
+dimwishlist:item=2278995296&perks=13792279,3142289711,2387244414,1015611457#notes: CleanshotIS/Accurized/ZenMoment/KillClip
+dimwishlist:item=2278995296&perks=13792279,3142289711,2387244414,47981717#notes: CleanshotIS/Accurized/ZenMoment/OpeningShot
+dimwishlist:item=2278995296&perks=13792279,3142289711,588594999,1015611457#notes: CleanshotIS/Accurized/MovingTarget/KillClip
+dimwishlist:item=2278995296&perks=13792279,3142289711,588594999,47981717#notes: CleanshotIS/Accurized/MovingTarget/OpeningShot
+dimwishlist:item=2278995296&perks=13792279,4134353779,3400784728,3425386926#notes: CleanshotIS/DropMag/TripleTap/Rampage
+dimwishlist:item=2278995296&perks=13792279,4134353779,2387244414,1015611457#notes: CleanshotIS/DropMag/ZenMoment/KillClip
+dimwishlist:item=2278995296&perks=13792279,4134353779,588594999,1015611457#notes: CleanshotIS/DropMag/MovingTarget/KillClip
+dimwishlist:item=2278995296&perks=13792278,106909392,3400784728,3425386926#notes: HitmarkIS/TacMag/TripleTap/Rampage
+dimwishlist:item=2278995296&perks=13792278,106909392,2387244414,1015611457#notes: HitmarkIS/TacMag/ZenMoment/KillClip
+dimwishlist:item=2278995296&perks=13792278,106909392,2387244414,47981717#notes: HitmarkIS/TacMag/ZenMoment/OpeningShot
+dimwishlist:item=2278995296&perks=13792278,106909392,588594999,1015611457#notes: HitmarkIS/TacMag/MovingTarget/KillClip
+dimwishlist:item=2278995296&perks=13792278,106909392,588594999,47981717#notes: HitmarkIS/TacMag/MovingTarget/OpeningShot
+dimwishlist:item=2278995296&perks=13792278,3230963543,3400784728,3425386926#notes: HitmarkIS/FlaredMag/TripleTap/Rampage
+dimwishlist:item=2278995296&perks=13792278,3230963543,2387244414,1015611457#notes: HitmarkIS/FlaredMag/ZenMoment/KillClip
+dimwishlist:item=2278995296&perks=13792278,3230963543,588594999,1015611457#notes: HitmarkIS/FlaredMag/MovingTarget/KillClip
+dimwishlist:item=2278995296&perks=13792278,3177308360,2387244414,1015611457#notes: HitmarkIS/Steady/ZenMoment/KillClip
+dimwishlist:item=2278995296&perks=13792278,3177308360,2387244414,47981717#notes: HitmarkIS/Steady/ZenMoment/OpeningShot
+dimwishlist:item=2278995296&perks=13792278,3177308360,588594999,1015611457#notes: HitmarkIS/Steady/MovingTarget/KillClip
+dimwishlist:item=2278995296&perks=13792278,3177308360,588594999,47981717#notes: HitmarkIS/Steady/MovingTarget/OpeningShot
+dimwishlist:item=2278995296&perks=13792278,3142289711,2387244414,1015611457#notes: HitmarkIS/Accurized/ZenMoment/KillClip
+dimwishlist:item=2278995296&perks=13792278,3142289711,2387244414,47981717#notes: HitmarkIS/Accurized/ZenMoment/OpeningShot
+dimwishlist:item=2278995296&perks=13792278,3142289711,588594999,1015611457#notes: HitmarkIS/Accurized/MovingTarget/KillClip
+dimwishlist:item=2278995296&perks=13792278,3142289711,588594999,47981717#notes: HitmarkIS/Accurized/MovingTarget/OpeningShot
+dimwishlist:item=2278995296&perks=13792278,4134353779,3400784728,3425386926#notes: HitmarkIS/DropMag/TripleTap/Rampage
+dimwishlist:item=2278995296&perks=13792278,4134353779,2387244414,1015611457#notes: HitmarkIS/DropMag/ZenMoment/KillClip
+dimwishlist:item=2278995296&perks=13792278,4134353779,588594999,1015611457#notes: HitmarkIS/DropMag/MovingTarget/KillClip
+dimwishlist:item=2278995296&perks=2405638014,106909392,3400784728,3425386926#notes: RedDotMicro/TacMag/TripleTap/Rampage
+dimwishlist:item=2278995296&perks=2405638014,106909392,2387244414,1015611457#notes: RedDotMicro/TacMag/ZenMoment/KillClip
+dimwishlist:item=2278995296&perks=2405638014,106909392,2387244414,47981717#notes: RedDotMicro/TacMag/ZenMoment/OpeningShot
+dimwishlist:item=2278995296&perks=2405638014,106909392,588594999,1015611457#notes: RedDotMicro/TacMag/MovingTarget/KillClip
+dimwishlist:item=2278995296&perks=2405638014,106909392,588594999,47981717#notes: RedDotMicro/TacMag/MovingTarget/OpeningShot
+dimwishlist:item=2278995296&perks=2405638014,3230963543,3400784728,3425386926#notes: RedDotMicro/FlaredMag/TripleTap/Rampage
+dimwishlist:item=2278995296&perks=2405638014,3230963543,2387244414,1015611457#notes: RedDotMicro/FlaredMag/ZenMoment/KillClip
+dimwishlist:item=2278995296&perks=2405638014,3230963543,588594999,1015611457#notes: RedDotMicro/FlaredMag/MovingTarget/KillClip
+dimwishlist:item=2278995296&perks=2405638014,3177308360,2387244414,1015611457#notes: RedDotMicro/Steady/ZenMoment/KillClip
+dimwishlist:item=2278995296&perks=2405638014,3177308360,2387244414,47981717#notes: RedDotMicro/Steady/ZenMoment/OpeningShot
+dimwishlist:item=2278995296&perks=2405638014,3177308360,588594999,1015611457#notes: RedDotMicro/Steady/MovingTarget/KillClip
+dimwishlist:item=2278995296&perks=2405638014,3177308360,588594999,47981717#notes: RedDotMicro/Steady/MovingTarget/OpeningShot
+dimwishlist:item=2278995296&perks=2405638014,3142289711,2387244414,1015611457#notes: RedDotMicro/Accurized/ZenMoment/KillClip
+dimwishlist:item=2278995296&perks=2405638014,3142289711,2387244414,47981717#notes: RedDotMicro/Accurized/ZenMoment/OpeningShot
+dimwishlist:item=2278995296&perks=2405638014,3142289711,588594999,1015611457#notes: RedDotMicro/Accurized/MovingTarget/KillClip
+dimwishlist:item=2278995296&perks=2405638014,3142289711,588594999,47981717#notes: RedDotMicro/Accurized/MovingTarget/OpeningShot
+dimwishlist:item=2278995296&perks=2405638014,4134353779,3400784728,3425386926#notes: RedDotMicro/DropMag/TripleTap/Rampage
+dimwishlist:item=2278995296&perks=2405638014,4134353779,2387244414,1015611457#notes: RedDotMicro/DropMag/ZenMoment/KillClip
+dimwishlist:item=2278995296&perks=2405638014,4134353779,588594999,1015611457#notes: RedDotMicro/DropMag/MovingTarget/KillClip
+—————————————————————————
 —————————————————————————
 —————————————————————————
 —————————————————————————

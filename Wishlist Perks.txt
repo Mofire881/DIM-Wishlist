@@ -104,6 +104,7 @@ DIM Wishlist Perk Codes:
 2010801679 Ambitious
 3300816228 AutoLoading
 1600092898 BackupPlan
+2289534249 BewilderingBurst
 1546142478 BinaryOrbit
 2551157718 BoxBreathing
 1194056669 ClosingTime
@@ -123,6 +124,7 @@ DIM Wishlist Perk Codes:
 280464955 FirmlyPlanted
 2244851822 FlashCounter
 1354429876 FourthTime
+4104185692 Frenzy
 2888557110 FullCourt
 4267945040 FullAuto
 863260328 Genesis
@@ -154,6 +156,7 @@ DIM Wishlist Perk Codes:
 3643424744 Overflow
 2272927194 PerfectFloat
 1428297954 PerpetualMotion
+555281244 PrecisionInstrument
 4190679284 ProximityPower
 972757866 PulseMonitor
 706527188 Quickdraw
@@ -161,6 +164,7 @@ DIM Wishlist Perk Codes:
 2846385770 Rangefinder
 3425386926 Rampage
 3713215006 RecycledEnergy
+3201496230 Redirection
 3418782618 RewindRounds
 1955165503 Rimestealer
 4132187021 SharpHarvest

@@ -53,6 +53,11 @@ DIM Wishlist Perk Codes:
 3525010810 QuickLaunch
 1478423395 Volatile
 ---
+2985827016 AlloyCasing
+1996142143 BlackPowder
+2822142346 High-Velocity
+3796465595 ImpactCasing
+---
 1047830412 FullChoke
 1300023272 Shroud
 466087222 Smoothbore
@@ -86,7 +91,6 @@ DIM Wishlist Perk Codes:
 2420895100 ExtendedMag
 3230963543 Flared
 1561002382 High-Cal
-1556840489 LeadFromGold
 679225683 LightMag
 332133599 MiniFrags
 1380253176 Ordnance
@@ -103,10 +107,13 @@ DIM Wishlist Perk Codes:
 1226351311 AllStar
 2010801679 Ambitious
 3300816228 AutoLoading
+3078487919 BaitAndSwitch
 1600092898 BackupPlan
 2289534249 BewilderingBurst
 1546142478 BinaryOrbit
+1439600632 Bipod
 2551157718 BoxBreathing
+2396489472 ChainReaction
 1194056669 ClosingTime
 2284787283 Clown
 3650930298 ColdSteel
@@ -116,7 +123,9 @@ DIM Wishlist Perk Codes:
 1359896290 DynamicSway
 2848615171 Dragonfly
 1089671869 ElementalHoning
-3038247973 Explosive
+3987942396 EnviousArsenal
+3194351027 ExplosiveLight
+3038247973 ExplosivePayload
 699525795 EyeOfTheStorm
 2779035018 FeedingFrenzy
 2869569095 FieldPrep
@@ -140,6 +149,7 @@ DIM Wishlist Perk Codes:
 1015611457 KillClip
 2450788523 KillingWind
 3891536761 KineticTremors
+3927722942 LastingImpression
 1556840489 LeadFromGold
 1570399071 LeadFromLight
 2458610193 LightTouch
@@ -163,6 +173,7 @@ DIM Wishlist Perk Codes:
 247725512 RapidHit
 2846385770 Rangefinder
 3425386926 Rampage
+1523832109 Reconstruction
 3713215006 RecycledEnergy
 3201496230 Redirection
 3418782618 RewindRounds
@@ -182,6 +193,7 @@ DIM Wishlist Perk Codes:
 4071163871 ThreatDetector
 1954620775 TimedPayload
 2590710093 Tireless
+3977735242 TrackingModule
 2360754333 TrenchBarrel
 3400784728 TripleTap
 1645158859 UnderPressure

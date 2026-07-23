@@ -309,6 +309,13 @@ dimwishlist:item=3040742682&perks=4134353779,3400784728,3038247973#notes: DropMa
 dimwishlist:item=3040742682&perks=4134353779,2387244414,1015611457#notes: DropMag/ZenMoment/KillClip 
 dimwishlist:item=3040742682&perks=4134353779,588594999,1015611457#notes: DropMag/MovingTarget/KillClip 
 —————————————————————————
+Sleepless - 5 Rolls
+dimwishlist:item=3740842661&perks=3525010810,2985827016,2869569095,1275731761#notes:QuickLaunch/AlloyCasing/FieldPrep/ClusterBomb
+dimwishlist:item=3740842661&perks=3525010810,1996142143,1275731761#notes:QuickLaunch/BlackPowder/ClusterBomb
+dimwishlist:item=3740842661&perks=3525010810,3796465595,3300816228,1275731761#notes:QuickLaunch/ImpactCasing/AutoLoading/ClusterBomb
+dimwishlist:item=3740842661&perks=3525010810,3796465595,2869569095,1275731761#notes:QuickLaunch/ImpactCasing/FieldPrep/ClusterBomb
+dimwishlist:item=3740842661&perks=981914802,3796465595,3300816228,706527188#notes:HardLaunch/ImpactCasing/Autoloading/Quickdraw
+—————————————————————————
 —————————————————————————
 —————————————————————————
 —————————————————————————

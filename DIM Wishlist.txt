@@ -3694,13 +3694,6 @@ dimwishlist:item=3067821200&perks=3525010810,2985827016,3523296417,1275731761#no
 dimwishlist:item=3067821200&perks=3525010810,2985827016,3523296417,2010801679#notes:QuickLaunch/AlloyCasing/Demolitionist/Ambitious
 dimwishlist:item=3067821200&perks=1478423395,1996142143,3523296417,1275731761#notes:Volatile/BlackPowder/Demolitionist/ClusterBomb
 —————————————————————————
-Slepless - 5 Rolls
-dimwishlist:item=3740842661&perks=3525010810,2985827016,2869569095,1275731761#notes:QuickLaunch/AlloyCasing/FieldPrep/ClusterBomb
-dimwishlist:item=3740842661&perks=3525010810,1996142143,1275731761#notes:QuickLaunch/BlackPowder/ClusterBomb
-dimwishlist:item=3740842661&perks=3525010810,3796465595,3300816228,1275731761#notes:QuickLaunch/ImpactCasing/AutoLoading/ClusterBomb
-dimwishlist:item=3740842661&perks=3525010810,3796465595,2869569095,1275731761#notes:QuickLaunch/ImpactCasing/FieldPrep/ClusterBomb
-dimwishlist:item=3740842661&perks=981914802,3796465595,3300816228,706527188#notes:HardLaunch/ImpactCasing/Autoloading/Quickdraw
-—————————————————————————
 —————————————————————————
 [14]: Linear Fusion Rifles
 —————————————————————————

@@ -102,6 +102,7 @@ DIM Wishlist Perk Codes:
 3177308360 Steady
 106909392 TacMag
 ---
+3673922083 Adagio
 3252937884 AdhesiveOrdnance
 11612903 AdrenalineJunkie
 3764420437 AggregateCharge
@@ -115,12 +116,15 @@ DIM Wishlist Perk Codes:
 1439600632 Bipod
 2551157718 BoxBreathing
 1918398421 BuiltToBlast
+198336270 Butterfly
 2396489472 ChainReaction
 1194056669 ClosingTime
 2284787283 Clown
 3650930298 ColdSteel
 3523296417 Demolitionist
+1464081238 Demoralize
 2109543898 Desperate
+2048641572 DestabilizingRounds
 3182497402 DimensionalShift
 1683379515 Disruption
 1359896290 DynamicSway

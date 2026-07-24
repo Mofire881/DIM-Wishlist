@@ -3287,6 +3287,31 @@ dimwishlist:item=1161276682&perks=1482024992,1561002382#notes: Smallbore/High-Ca
 —————————————————————————
 [9]: Bows 
 —————————————————————————
+Convened Recurve - 23 Rolls
+dimwishlist:item=3667861447&perks=588594999,957782887#notes: MovingTarget/Snapshot
+dimwishlist:item=3667861447&perks=588594999,3673922083#notes: MovingTarget/Adagio
+dimwishlist:item=3667861447&perks=1918398421,957782887#notes: BuiltToBlast/Snapshot
+dimwishlist:item=3667861447&perks=1918398421,3673922083#notes: BuiltToBlast/Adagio
+dimwishlist:item=3667861447&perks=1134488199,957782887#notes: WitheringGaze/Snapshot
+dimwishlist:item=3667861447&perks=1134488199,3673922083#notes: WitheringGaze/Adagio
+dimwishlist:item=3667861447&perks=1134488199,3764420437#notes: WitheringGaze/AggregateCharge
+dimwishlist:item=3667861447&perks=1134488199,1464081238#notes: WitheringGaze/Demoralize
+dimwishlist:item=3667861447&perks=1134488199,198336270#notes: WitheringGaze/Butterfly
+dimwishlist:item=3667861447&perks=1134488199,2048641572#notes: WitheringGaze/DestabilizingRounds
+dimwishlist:item=3667861447&perks=776531651,1464081238#notes: RepulsorBrace/Demoralize
+dimwishlist:item=3667861447&perks=776531651,2048641572#notes: RepulsorBrace/DestabilizingRounds
+dimwishlist:item=3667861447&perks=3182497402,3673922083#notes: DimensionalShift/Adagio
+dimwishlist:item=3667861447&perks=3182497402,3764420437#notes: DimensionalShift/AggregateCharge
+dimwishlist:item=3667861447&perks=3182497402,1464081238#notes: DimensionalShift/Demoralize
+dimwishlist:item=3667861447&perks=3182497402,198336270#notes: DimensionalShift/Butterfly
+dimwishlist:item=3667861447&perks=3182497402,2048641572#notes: DimensionalShift/DestabilizingRounds
+dimwishlist:item=3667861447&perks=2652708987,957782887#notes: SuccessfulWarmUp/Snapshot
+dimwishlist:item=3667861447&perks=2652708987,3673922083#notes: SuccessfulWarmUp/Adagio
+dimwishlist:item=3667861447&perks=2652708987,3764420437#notes: SuccessfulWarmUp/AggregateCharge
+dimwishlist:item=3667861447&perks=2652708987,1464081238#notes: SuccessfulWarmUp/Demoralize
+dimwishlist:item=3667861447&perks=2652708987,198336270#notes: SuccessfulWarmUp/Butterfly
+dimwishlist:item=3667861447&perks=2652708987,2048641572#notes: SuccessfulWarmUp/DestabilizingRounds
+—————————————————————————
 The Spiteful Fang - 20 Rolls
 dimwishlist:item=421573768&perks=2801223209,3429800428,201365942,3365897133#notes: ElasticString/FiberGlass/ArchTempo/ExplosiveHead
 dimwishlist:item=421573768&perks=852209214,3429800428,201365942,3365897133#notes: PolymerString/FiberGlass/ArchTempo/ExplosiveHead
@@ -3308,24 +3333,6 @@ dimwishlist:item=421573768&perks=2801223209,3827198035,201365942,3425386926#note
 dimwishlist:item=421573768&perks=852209214,3827198035,201365942,3425386926#notes: PolymerString/StraightFletch/ArchTempo/Rampage
 dimwishlist:item=421573768&perks=2801223209,3827198035,3722653512,1866048759#notes: ElasticString/StraightFletch/AirAssault/Hipfire
 dimwishlist:item=421573768&perks=852209214,3827198035,3722653512,1866048759#notes: PolymerString/StraightFletch/AirAssault/Hipfire
-—————————————————————————
-Subtle Calamity - 16 Rolls
-dimwishlist:item=3410721600&perks=852209214,3429800428,3425386926,201365942#notes: PolymerString/FiberGlass/Rampage/ArchTempo
-dimwishlist:item=3410721600&perks=2801223209,3429800428,3425386926,201365942#notes: ElasticString/FiberGlass/Rampage/ArchTempo
-dimwishlist:item=3410721600&perks=852209214,3429800428,2848615171,201365942#notes: PolymerString/FiberGlass/Dragonfly/ArchTempo
-dimwishlist:item=3410721600&perks=2801223209,3429800428,2848615171,201365942#notes: ElasticString/FiberGlass/Dragonfly/ArchTempo
-dimwishlist:item=3410721600&perks=852209214,3429800428,588594999,3365897133#notes: PolymerString/FiberGlass/MovingTarget/ExplosiveHead
-dimwishlist:item=3410721600&perks=2801223209,3429800428,588594999,3365897133#notes: ElasticString/FiberGlass/MovingTarget/ExplosiveHead
-dimwishlist:item=3410721600&perks=852209214,3429800428,588594999,201365942#notes: PolymerString/FiberGlass/MovingTarget/ArchTempo
-dimwishlist:item=3410721600&perks=2801223209,3429800428,588594999,201365942#notes: ElasticString/FiberGlass/MovingTarget/ArchTempo
-dimwishlist:item=3410721600&perks=852209214,3827198035,3425386926,201365942#notes: PolymerString/StraightFletch/Rampage/ArchTempo
-dimwishlist:item=3410721600&perks=2801223209,3827198035,3425386926,201365942#notes: ElasticString/StraightFletch/Rampage/ArchTempo
-dimwishlist:item=3410721600&perks=852209214,3827198035,2848615171,201365942#notes: PolymerString/StraightFletch/Dragonfly/ArchTempo
-dimwishlist:item=3410721600&perks=2801223209,3827198035,2848615171,201365942#notes: ElasticString/StraightFletch/Dragonfly/ArchTempo
-dimwishlist:item=3410721600&perks=852209214,3827198035,588594999,3365897133#notes: PolymerString/StraightFletch/MovingTarget/ExplosiveHead
-dimwishlist:item=3410721600&perks=2801223209,3827198035,588594999,3365897133#notes: ElasticString/StraightFletch/MovingTarget/ExplosiveHead
-dimwishlist:item=3410721600&perks=852209214,3827198035,588594999,201365942#notes: PolymerString/StraightFletch/MovingTarget/ArchTempo
-dimwishlist:item=3410721600&perks=2801223209,3827198035,588594999,201365942#notes: ElasticString/StraightFletch/MovingTarget/ArchTempo
 —————————————————————————
 Arsenic Bite-4b - 24 Rolls
 dimwishlist:item=720351795&perks=2801223209,3429800428,3425386926,201365942#notes: ElasticString/FiberGlass/Rampage/ArchTempo

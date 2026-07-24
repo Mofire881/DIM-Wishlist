@@ -144,6 +144,7 @@ DIM Wishlist Perk Codes:
 460017080 Headseeker
 124408337 Headstone
 3017780555 HealClip
+2213355989 High-ImpactReserves
 1866048759 HipFire
 4293542123 Incandescent
 3619207468 KeepAway

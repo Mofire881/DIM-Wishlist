@@ -144,6 +144,7 @@ DIM Wishlist Perk Codes:
 2888557110 FullCourt
 4267945040 FullAuto
 863260328 Genesis
+2610012052 GoldenTricorn
 1631667848 GraveRobber
 438098033 Harmony
 831391274 Hatchling

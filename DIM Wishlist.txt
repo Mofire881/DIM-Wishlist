@@ -88,6 +88,29 @@ dimwishlist:item=1518042134&perks=2054312701,106909392,1890422124,1015611457#not
 —————————————————————————
 [1]: Auto Rifles 
 —————————————————————————
+Positive Outlook - 21 Rolls
+dimwishlist:item=3625635456&perks=776531651,2048641572#notes: RepulsorBrace/DestabilizingRounds 
+dimwishlist:item=3625635456&perks=2387244414,1890422124#notes: ZenMoment/TrapTheTrigger
+dimwishlist:item=3625635456&perks=1359896290,1890422124#notes: DynamicSway/TrapTheTrigger
+dimwishlist:item=3625635456&perks=2010801679,2048641572#notes: AmbitiousAssassin/DestabilizingRounds
+dimwishlist:item=3625635456&perks=2010801679,2848615171#notes: AmbitiousAssassin/Dragonfly
+dimwishlist:item=3625635456&perks=2010801679,365154968#notes: AmbitiousAssassin/TargetLock
+dimwishlist:item=3625635456&perks=2010801679,2610012052#notes: AmbitiousAssassin/GoldenTricorn
+dimwishlist:item=3625635456&perks=1820235745,2048641572#notes: Subsistence/DestabilizingRounds
+dimwishlist:item=3625635456&perks=1820235745,2848615171#notes: Subsistence/Dragonfly
+dimwishlist:item=3625635456&perks=1820235745,365154968#notes: Subsistence/TargetLock
+dimwishlist:item=3625635456&perks=1820235745,2610012052#notes: Subsistence/GoldenTricorn
+dimwishlist:item=3625635456&perks=1134488199,2048641572#notes: WitheringGaze/DestabilizingRounds
+dimwishlist:item=3625635456&perks=1134488199,2848615171#notes: WitheringGaze/Dragonfly
+dimwishlist:item=3625635456&perks=1134488199,365154968#notes: WitheringGaze/TargetLock
+dimwishlist:item=3625635456&perks=1134488199,1890422124#notes: WitheringGaze//TrapTheTrigger
+dimwishlist:item=3625635456&perks=1134488199,2610012052#notes: WitheringGaze/GoldenTricorn
+dimwishlist:item=3625635456&perks=2779035018,2048641572#notes: FeedingFrenzy/DestabilizingRounds
+dimwishlist:item=3625635456&perks=2779035018,2305480722#notes: FeedingFrenzy/MegaKillClip
+dimwishlist:item=3625635456&perks=2779035018,2848615171#notes: FeedingFrenzy/Dragonfly
+dimwishlist:item=3625635456&perks=2779035018,365154968#notes: FeedingFrenzy/TargetLock
+dimwishlist:item=3625635456&perks=2779035018,2610012052#notes: FeedingFrenzy/GoldenTricorn
+—————————————————————————
 Pluperfect - 12 Rolls
 dimwishlist:item=2203881482&perks=3523296417,11612903#notes: Demolitionist/AdrenalineJunkie
 dimwishlist:item=2203881482&perks=1517798362,3891536761#notes: StoppingPower/KineticTremors

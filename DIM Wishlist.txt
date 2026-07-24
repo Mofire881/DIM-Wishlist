@@ -3608,6 +3608,48 @@ dimwishlist:item=1946491241&perks=3525010810,1716000303,2779035018,2458213969#no
 —————————————————————————
 [13]: Rocket Launchers 
 —————————————————————————
+Cynosure - 40 Rolls
+dimwishlist:item=2827141087&perks=3525010810,3796465595,2869569095,3078487919#notes: QuickLaunch/ImpactCasing/FieldPrep/BaitAndSwitch
+dimwishlist:item=2827141087&perks=3525010810,3796465595,2869569095,3764420437#notes: QuickLaunch/ImpactCasing/FieldPrep/AggregateCharge
+dimwishlist:item=2827141087&perks=3525010810,3796465595,2869569095,1439600632#notes: QuickLaunch/ImpactCasing/FieldPrep/Bipod
+dimwishlist:item=2827141087&perks=3525010810,3796465595,2869569095,3194351027#notes: QuickLaunch/ImpactCasing/FieldPrep/ExplosiveLight
+dimwishlist:item=2827141087&perks=3525010810,3796465595,3523296417,3078487919#notes: QuickLaunch/ImpactCasing/Demolitionist/BaitAndSwitch
+dimwishlist:item=2827141087&perks=3525010810,3796465595,3523296417,3078487919#notes: QuickLaunch/ImpactCasing/Demolitionist/LastingImpression
+dimwishlist:item=2827141087&perks=3525010810,3796465595,3523296417,3764420437#notes: QuickLaunch/ImpactCasing/Demolitionist/AggregateCharge
+dimwishlist:item=2827141087&perks=3525010810,3796465595,3523296417,1439600632#notes: QuickLaunch/ImpactCasing/Demolitionist/Bipod
+dimwishlist:item=2827141087&perks=3525010810,3796465595,3523296417,3194351027#notes: QuickLaunch/ImpactCasing/Demolitionist/ExplosiveLight
+dimwishlist:item=2827141087&perks=3525010810,3796465595,3643424744,3078487919#notes: QuickLaunch/ImpactCasing/Overflow/BaitAndSwitch
+dimwishlist:item=2827141087&perks=3525010810,3796465595,3643424744,3078487919#notes: QuickLaunch/ImpactCasing/Overflow/LastingImpression
+dimwishlist:item=2827141087&perks=3525010810,3796465595,3643424744,3764420437#notes: QuickLaunch/ImpactCasing/Overflow/AggregateCharge
+dimwishlist:item=2827141087&perks=3525010810,3796465595,3643424744,1439600632#notes: QuickLaunch/ImpactCasing/Overflow/Bipod
+dimwishlist:item=2827141087&perks=3525010810,3796465595,3643424744,3194351027#notes: QuickLaunch/ImpactCasing/Overflow/ExplosiveLight
+dimwishlist:item=2827141087&perks=3525010810,3796465595,3987942396,3078487919#notes: QuickLaunch/ImpactCasing/EnviousArsenal/BaitAndSwitch
+dimwishlist:item=2827141087&perks=3525010810,3796465595,3987942396,3078487919#notes: QuickLaunch/ImpactCasing/EnviousArsenal/LastingImpression
+dimwishlist:item=2827141087&perks=3525010810,3796465595,3987942396,3764420437#notes: QuickLaunch/ImpactCasing/EnviousArsenal/AggregateCharge
+dimwishlist:item=2827141087&perks=3525010810,3796465595,3987942396,1439600632#notes: QuickLaunch/ImpactCasing/EnviousArsenal/Bipod
+dimwishlist:item=2827141087&perks=3525010810,3796465595,3987942396,3194351027#notes: QuickLaunch/ImpactCasing/EnviousArsenal/ExplosiveLight
+dimwishlist:item=2827141087&perks=3525010810,3796465595,1523832109,3078487919#notes: QuickLaunch/ImpactCasing/Reconstruction/BaitAndSwitch
+dimwishlist:item=2827141087&perks=3525010810,3796465595,1523832109,3078487919#notes: QuickLaunch/ImpactCasing/Reconstruction/LastingImpression
+dimwishlist:item=2827141087&perks=3525010810,3796465595,1523832109,3764420437#notes: QuickLaunch/ImpactCasing/Reconstruction/AggregateCharge
+dimwishlist:item=2827141087&perks=3525010810,3796465595,1523832109,1439600632#notes: QuickLaunch/ImpactCasing/Reconstruction/Bipod
+dimwishlist:item=2827141087&perks=3525010810,3796465595,1523832109,3194351027#notes: QuickLaunch/ImpactCasing/Reconstruction/ExplosiveLight
+dimwishlist:item=2827141087&perks=3525010810,2822142346,2869569095,3078487919#notes: QuickLaunch/High-Velocity/FieldPrep/LastingImpression
+dimwishlist:item=2827141087&perks=3525010810,2985827016,2869569095,3078487919#notes: QuickLaunch/AlloyCasing/FieldPrep/LastingImpression
+dimwishlist:item=2827141087&perks=3525010810,2985827016,923806249,3078487919#notes: QuickLaunch/AlloyCasing/Slice/LastingImpression
+dimwishlist:item=2827141087&perks=3525010810,2985827016,923806249,1439600632#notes: QuickLaunch/AlloyCasing/Slice/Bipod
+dimwishlist:item=2827141087&perks=1844523823,1996142143,3977735242,2396489472#notes: ConfinedLaunch/BlackPowder/TrackingModule/ChainReaction
+dimwishlist:item=2827141087&perks=1478423395,1996142143,2869569095,831391274#notes: VolatileLaunch/BlackPowder/FieldPrep/Hatchling
+dimwishlist:item=2827141087&perks=1478423395,1996142143,2869569095,2396489472#notes: VolatileLaunch/BlackPowder/FieldPrep/ChainReaction
+dimwishlist:item=2827141087&perks=1478423395,1996142143,3523296417,831391274#notes: VolatileLaunch/BlackPowder/Demolitionist/Hatchling
+dimwishlist:item=2827141087&perks=1478423395,1996142143,3523296417,2396489472#notes: VolatileLaunch/BlackPowder/Demolitionist/ChainReaction
+dimwishlist:item=2827141087&perks=1478423395,1996142143,3643424744,831391274#notes: VolatileLaunch/BlackPowder/Overflow/Hatchling
+dimwishlist:item=2827141087&perks=1478423395,1996142143,3643424744,2396489472#notes: VolatileLaunch/BlackPowder/Overflow/ChainReaction
+dimwishlist:item=2827141087&perks=1478423395,1996142143,3977735242,2396489472#notes: VolatileLaunch/BlackPowder/TrackingModule/ChainReaction
+dimwishlist:item=2827141087&perks=1478423395,1996142143,3987942396,831391274#notes: VolatileLaunch/BlackPowder/EnviousArsenal/Hatchling
+dimwishlist:item=2827141087&perks=1478423395,1996142143,3987942396,2396489472#notes: VolatileLaunch/BlackPowder/EnviousArsenal/ChainReaction
+dimwishlist:item=2827141087&perks=1478423395,1996142143,1523832109,831391274#notes: VolatileLaunch/BlackPowder/Reconstruction/Hatchling
+dimwishlist:item=2827141087&perks=1478423395,1996142143,1523832109,2396489472#notes: VolatileLaunch/BlackPowder/Reconstruction/ChainReaction
+—————————————————————————
 Mos Epoch III - 17* Rolls
 dimwishlist:item=1529450902&perks=3525010810,2985827016,3977735242,1275731761#notes:QuickLaunch/AlloyCasing/Tracking/ClusterBomb
 dimwishlist:item=1529450902&perks=3525010810,2985827016,3977735242,1683379515#notes:QuickLaunch/AlloyCasing/Tracking/DisruptionBreak

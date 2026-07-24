@@ -2753,9 +2753,10 @@ dimwishlist:item=1203091695&perks=1885400500,957782887,588594999#notes: Ricochet
 —————————————————————————
 [7]: Fusion Rifles
 —————————————————————————
-Main Ingredient - 51 Rolls
+Main Ingredient - 53 Rolls
 dimwishlist:item=4046741099&perks=689005463,1556840489,1427256713#notes: Accelerated/LeadFromGold/ReservoirBurst
 dimwishlist:item=4046741099&perks=689005463,1556840489,654512643#notes: Accelerated/LeadFromGold/GearShift
+dimwishlist:item=4046741099&perks=689005463,1115162408,1427256713#notes: Accelerated/TrickleCharge/ReservoirBurst
 dimwishlist:item=4046741099&perks=689005463,2779035018,2173046394#notes: Accelerated/FeedingFrenzy/Voltshot
 dimwishlist:item=4046741099&perks=689005463,2779035018,1427256713#notes: Accelerated/FeedingFrenzy/ReservoirBurst
 dimwishlist:item=4046741099&perks=689005463,2779035018,654512643#notes: Accelerated/FeedingFrenzy/GearShift
@@ -2772,6 +2773,7 @@ dimwishlist:item=4046741099&perks=1483536627,2779035018,2173046394#notes: Ionize
 dimwishlist:item=4046741099&perks=1483536627,2779035018,654512643#notes: Ionized/FeedingFrenzy/GearShift
 dimwishlist:item=4046741099&perks=1687452232,1556840489,1427256713#notes: Liquid/LeadFromGold/ReservoirBurst
 dimwishlist:item=4046741099&perks=1687452232,1556840489,654512643#notes: Liquid/LeadFromGold/GearShift
+dimwishlist:item=4046741099&perks=1687452232,1115162408,1427256713#notes: Liquid/TrickleCharge/ReservoirBurst
 dimwishlist:item=4046741099&perks=1687452232,2779035018,2173046394#notes: Liquid/FeedingFrenzy/Voltshot
 dimwishlist:item=4046741099&perks=1687452232,2779035018,1427256713#notes: Liquid/FeedingFrenzy/ReservoirBurst
 dimwishlist:item=4046741099&perks=1687452232,2779035018,654512643#notes: Liquid/FeedingFrenzy/GearShift

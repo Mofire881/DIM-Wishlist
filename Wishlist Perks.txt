@@ -177,6 +177,7 @@ DIM Wishlist Perk Codes:
 1523832109 Reconstruction
 3713215006 RecycledEnergy
 3201496230 Redirection
+1427256713 ReservoirBurst
 3418782618 RewindRounds
 1955165503 Rimestealer
 4132187021 SharpHarvest
@@ -196,9 +197,11 @@ DIM Wishlist Perk Codes:
 2590710093 Tireless
 3977735242 TrackingModule
 2360754333 TrenchBarrel
+1115162408 TrickleCharge
 3400784728 TripleTap
 1645158859 UnderPressure
 3108830275 Unrelenting
+2173046394 Voltshot
 1546637391 Vorpal
 3913600130 Whirlwind
 2387244414 ZenMoment

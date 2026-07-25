@@ -3342,6 +3342,21 @@ dimwishlist:item=720351795&perks=2801223209,3827198035,706527188,201365942#notes
 —————————————————————————
 [10]: Scout Rifles 
 —————————————————————————
+Nameless Midnight - 13 Rolls
+dimwishlist:item=1957301533&perks=3400784728,3891536761#notes: TripleTap/KineticTremors
+dimwishlist:item=1957301533&perks=3400784728,3038247973#notes: TripleTap/ExplosivePayload
+dimwishlist:item=1957301533&perks=2387244414,460017080#notes: ZenMoment/HeadSeeker
+dimwishlist:item=1957301533&perks=2387244414,3038247973#notes: ZenMoment/ExplosivePayload
+dimwishlist:item=1957301533&perks=1168162263,1015611457#notes: Outlaw/KillClip
+dimwishlist:item=1957301533&perks=3700496672,1226351311#notes: ShootToLoot/AllStar
+dimwishlist:item=1957301533&perks=1354429876,3891536761#notes: FourthTime/KineticTremors
+dimwishlist:item=1957301533&perks=1354429876,3038247973#notes: FourthTime/ExplosivePayload
+dimwishlist:item=1957301533&perks=247725512,3891536761#notes: RapidHit/KineticTremors
+dimwishlist:item=1957301533&perks=247725512,3038247973#notes: RapidHit/ExplosivePayload
+dimwishlist:item=1957301533&perks=247725512,1015611457#notes: RapidHit/KillClip
+dimwishlist:item=1957301533&perks=2866798147,460017080#notes: NoDistractions/HeadSeeker
+dimwishlist:item=1957301533&perks=2866798147,3038247973#notes: NoDistractions/ExplosivePayload
+—————————————————————————
 Inbound Surveillance - 8 Rolls
 dimwishlist:item=2776506837&perks=1517798362,3891536761#notes: StoppingPower/KineticTremors
 dimwishlist:item=2776506837&perks=3700496672,3252937884#notes: ShootToLoot/AdhesiveOrdnance

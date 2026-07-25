@@ -2971,6 +2971,29 @@ dimwishlist:item=607191995&perks=4090651448,3868766766,2039302152,1600092898#not
 —————————————————————————
 [8]: Pulse Rifles
 —————————————————————————
+Nightshade - 21 Rolls
+dimwishlist:item=34731066&perks=839105230,1168162263,831391274#notes: Arrowhead/Outlaw/Hatchling
+dimwishlist:item=34731066&perks=839105230,1168162263,1015611457#notes: Arrowhead/Outlaw/KillClip
+dimwishlist:item=34731066&perks=839105230,1168162263,2109543898#notes: Arrowhead/Outlaw/Desperate
+dimwishlist:item=34731066&perks=839105230,1645158859,460017080#notes: Arrowhead/UnderPressure/Headseeker
+dimwishlist:item=34731066&perks=839105230,1645158859,588594999#notes: Arrowhead/UnderPressure/MovingTarget
+dimwishlist:item=34731066&perks=839105230,1645158859,699525795#notes: Arrowhead/UnderPressure/EyeOfTheStorm
+dimwishlist:item=34731066&perks=839105230,923806249,831391274#notes: Arrowhead/Slice/Hatchling
+dimwishlist:item=34731066&perks=839105230,923806249,1015611457#notes: Arrowhead/Slice/KillClip
+dimwishlist:item=34731066&perks=839105230,923806249,2779035018#notes: Arrowhead/Slice/FeedingFrenzy
+dimwishlist:item=34731066&perks=839105230,923806249,2109543898#notes: Arrowhead/Slice/Desperate
+dimwishlist:item=34731066&perks=839105230,3619207468,2109543898#notes: Arrowhead/KeepAway/Desperate
+dimwishlist:item=34731066&perks=839105230,588594999,460017080#notes: Arrowhead/MovingTarget/Headseeker
+dimwishlist:item=34731066&perks=839105230,588594999,588594999#notes: Arrowhead/MovingTarget/MovingTarget
+dimwishlist:item=34731066&perks=839105230,588594999,699525795#notes: Arrowhead/MovingTarget/EyeOfTheStorm
+dimwishlist:item=34731066&perks=839105230,2054520291,831391274#notes: Arrowhead/LuckyShot/Hatchling
+dimwishlist:item=34731066&perks=839105230,2054520291,1015611457#notes: Arrowhead/LuckyShot/KillClip
+dimwishlist:item=34731066&perks=839105230,2054520291,2109543898#notes: Arrowhead/LuckyShot/Desperate
+dimwishlist:item=34731066&perks=839105230,1570399071,831391274#notes: Arrowhead/LeadFromLight/Hatchling
+dimwishlist:item=34731066&perks=839105230,1570399071,1015611457#notes: Arrowhead/LeadFromLight/KillClip
+dimwishlist:item=34731066&perks=839105230,1570399071,2779035018#notes: Arrowhead/LeadFromLight/FeedingFrenzy
+dimwishlist:item=34731066&perks=839105230,1570399071,2109543898#notes: Arrowhead/LeadFromLight/Desperate
+—————————————————————————
 Cold Denial - 24 Rolls
 dimwishlist:item=1216130969&perks=1885400500,2779035018,3108830275#notes: Ricochet/FeedingFrenzy/Unrelenting 
 dimwishlist:item=1216130969&perks=1885400500,2779035018,2458213969#notes: Ricochet/FeedingFrenzy/MultiKillClip

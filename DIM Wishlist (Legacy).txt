@@ -394,4 +394,18 @@ dimwishlist:item=1518042134&perks=2054312701,3230963543,1890422124,588594999#not
 dimwishlist:item=1518042134&perks=2054312701,3230963543,706527188,1015611457#notes:SDThermal/FlaredMag/QuickDraw/KillClip
 dimwishlist:item=1518042134&perks=2054312701,3230963543,706527188,588594999#notes:SDThermal/FlaredMag/QuickDraw/MovingTarget
 —————————————————————————
+Wrong Side of Right - 12 Rolls
+dimwishlist:item=3957603605&perks=809345546,3177308360,588594999,3038247973#notes: DevilScope/SteadyRounds/MovingTarget/Explosive
+dimwishlist:item=3957603605&perks=809345546,3177308360,588594999,2387244414#notes: DevilScope/SteadyRounds/MovingTarget/ZenMoment
+dimwishlist:item=3957603605&perks=809345546,3177308360,47981717,3038247973#notes: DevilScope/SteadyRounds/OpeningShot/Explosive
+dimwishlist:item=3957603605&perks=809345546,3177308360,47981717,2387244414#notes: DevilScope/SteadyRounds/OpeningShot/ZenMoment
+dimwishlist:item=3957603605&perks=1288081796,3177308360,588594999,3038247973#notes: WolfSight/SteadyRounds/MovingTarget/Explosive
+dimwishlist:item=3957603605&perks=1288081796,3177308360,588594999,2387244414#notes: WolfSight/SteadyRounds/MovingTarget/ZenMoment
+dimwishlist:item=3957603605&perks=1288081796,3177308360,47981717,3038247973#notes: WolfSight/SteadyRounds/OpeningShot/Explosive
+dimwishlist:item=3957603605&perks=1288081796,3177308360,47981717,2387244414#notes: WolfSight/SteadyRounds/OpeningShot/ZenMoment
+dimwishlist:item=3957603605&perks=1288081797,3177308360,588594999,3038247973#notes: KingSight/SteadyRounds/MovingTarget/Explosive
+dimwishlist:item=3957603605&perks=1288081797,3177308360,588594999,2387244414#notes: KingSight/SteadyRounds/MovingTarget/ZenMoment
+dimwishlist:item=3957603605&perks=1288081797,3177308360,47981717,3038247973#notes: KingSight/SteadyRounds/OpeningShot/Explosive
+dimwishlist:item=3957603605&perks=1288081797,3177308360,47981717,2387244414#notes: KingSight/SteadyRounds/OpeningShot/ZenMoment
+—————————————————————————
 —————————————————————————

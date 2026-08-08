@@ -88,6 +88,24 @@ dimwishlist:item=1518042134&perks=2054312701,106909392,1890422124,1015611457#not
 —————————————————————————
 [1]: Auto Rifles 
 —————————————————————————
+Trendsetter - 16 Rolls (PvP Not Added)
+dimwishlist:item=2863808104&perks=839105230,3230963543,2458610193,654512643#notes: Arrowhead/Flared/LightTouch/GearShift 
+dimwishlist:item=2863808104&perks=839105230,3230963543,2458610193,3966416502#notes: Arrowhead/Flared/LightTouch/JoltingFeedback
+dimwishlist:item=2863808104&perks=839105230,3230963543,2010801679,3425386926#notes: Arrowhead/Flared/Ambitious/Rampage
+dimwishlist:item=2863808104&perks=839105230,1431678320,2458610193,654512643#notes: Arrowhead/AlloyMag/LightTouch/GearShift 
+dimwishlist:item=2863808104&perks=839105230,1431678320,2458610193,3966416502#notes: Arrowhead/AlloyMag/LightTouch/JoltingFeedback
+dimwishlist:item=2863808104&perks=839105230,1431678320,2010801679,3425386926#notes: Arrowhead/AlloyMag/Ambitious/Rampage
+dimwishlist:item=2863808104&perks=839105230,106909392,2458610193,654512643#notes: Arrowhead/TacMag/LightTouch/GearShift 
+dimwishlist:item=2863808104&perks=839105230,106909392,2458610193,3966416502#notes: Arrowhead/TacMag/LightTouch/JoltingFeedback
+dimwishlist:item=2863808104&perks=839105230,106909392,2010801679,3425386926#notes: Arrowhead/TacMag/Ambitious/Rampage
+dimwishlist:item=2863808104&perks=839105230,2420895100,1168162263,3425386926#notes: Arrowhead/ExtendedMag/Outlaw/Rampage
+dimwishlist:item=2863808104&perks=839105230,2420895100,1511100135,654512643#notes: Arrowhead/ExtendedMag/Supercharged/GearShift
+dimwishlist:item=2863808104&perks=839105230,2420895100,1511100135,3966416502#notes: Arrowhead/ExtendedMag/Supercharged/JoltingFeedback
+dimwishlist:item=2863808104&perks=839105230,2420895100,1115162408,3218042543#notes: Arrowhead/ExtendedMag/TrickleCharge/RollingStorm
+dimwishlist:item=2863808104&perks=839105230,1087426260,1511100135,654512643#notes: Arrowhead/Appended/Supercharged/GearShift
+dimwishlist:item=2863808104&perks=839105230,1087426260,1511100135,3966416502#notes: Arrowhead/Appended/Supercharged/JoltingFeedback
+dimwishlist:item=2863808104&perks=839105230,1087426260,1115162408,3218042543#notes: Arrowhead/Appended/TrickleCharge/RollingStorm
+—————————————————————————
 Positive Outlook - 21 Rolls
 dimwishlist:item=3625635456&perks=776531651,2048641572#notes: RepulsorBrace/DestabilizingRounds 
 dimwishlist:item=3625635456&perks=2387244414,1890422124#notes: ZenMoment/TrapTheTrigger

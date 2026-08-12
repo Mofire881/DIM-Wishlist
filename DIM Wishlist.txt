@@ -3283,29 +3283,20 @@ dimwishlist:item=1161276682&perks=1482024992,1561002382#notes: Smallbore/High-Ca
 —————————————————————————
 [9]: Bows 
 —————————————————————————
-Convened Recurve - 23 Rolls
+Convened Recurve - 14 Rolls
 dimwishlist:item=3667861447&perks=588594999,957782887#notes: MovingTarget/Snapshot
 dimwishlist:item=3667861447&perks=588594999,3673922083#notes: MovingTarget/Adagio
 dimwishlist:item=3667861447&perks=1918398421,957782887#notes: BuiltToBlast/Snapshot
 dimwishlist:item=3667861447&perks=1918398421,3673922083#notes: BuiltToBlast/Adagio
 dimwishlist:item=3667861447&perks=1134488199,957782887#notes: WitheringGaze/Snapshot
 dimwishlist:item=3667861447&perks=1134488199,3673922083#notes: WitheringGaze/Adagio
-dimwishlist:item=3667861447&perks=1134488199,3764420437#notes: WitheringGaze/AggregateCharge
-dimwishlist:item=3667861447&perks=1134488199,1464081238#notes: WitheringGaze/Demoralize
 dimwishlist:item=3667861447&perks=1134488199,198336270#notes: WitheringGaze/Butterfly
-dimwishlist:item=3667861447&perks=1134488199,2048641572#notes: WitheringGaze/DestabilizingRounds
 dimwishlist:item=3667861447&perks=776531651,1464081238#notes: RepulsorBrace/Demoralize
 dimwishlist:item=3667861447&perks=776531651,2048641572#notes: RepulsorBrace/DestabilizingRounds
-dimwishlist:item=3667861447&perks=3182497402,3673922083#notes: DimensionalShift/Adagio
-dimwishlist:item=3667861447&perks=3182497402,3764420437#notes: DimensionalShift/AggregateCharge
-dimwishlist:item=3667861447&perks=3182497402,1464081238#notes: DimensionalShift/Demoralize
 dimwishlist:item=3667861447&perks=3182497402,198336270#notes: DimensionalShift/Butterfly
-dimwishlist:item=3667861447&perks=3182497402,2048641572#notes: DimensionalShift/DestabilizingRounds
 dimwishlist:item=3667861447&perks=2652708987,957782887#notes: SuccessfulWarmUp/Snapshot
 dimwishlist:item=3667861447&perks=2652708987,3673922083#notes: SuccessfulWarmUp/Adagio
-dimwishlist:item=3667861447&perks=2652708987,3764420437#notes: SuccessfulWarmUp/AggregateCharge
 dimwishlist:item=3667861447&perks=2652708987,1464081238#notes: SuccessfulWarmUp/Demoralize
-dimwishlist:item=3667861447&perks=2652708987,198336270#notes: SuccessfulWarmUp/Butterfly
 dimwishlist:item=3667861447&perks=2652708987,2048641572#notes: SuccessfulWarmUp/DestabilizingRounds
 —————————————————————————
 The Spiteful Fang - 20 Rolls

@@ -1495,25 +1495,16 @@ dimwishlist:item=654370424&perks=1482024992,3177308360,47981717,3038247973#notes
 —————————————————————————
 [3]: Submachine Guns
 —————————————————————————
-Prolonged Engagement - 18 Rolls
+Prolonged Engagement - 9 Rolls
 dimwishlist:item=2624561525&perks=1168162263,124408337#notes: Outlaw/Headstone
-dimwishlist:item=2624561525&perks=1168162263,2458213969#notes: Outlaw/MultiKillClip
-dimwishlist:item=2624561525&perks=1168162263,365154968#notes: Outlaw/TargetLock
-dimwishlist:item=2624561525&perks=1168162263,438098033#notes: Outlaw/Harmony
-dimwishlist:item=2624561525&perks=1820235745,124408337#notes: Subsistence/Headstone
-dimwishlist:item=2624561525&perks=1820235745,2458213969#notes: Subsistence/MultiKillClip
 dimwishlist:item=2624561525&perks=1820235745,365154968#notes: Subsistence/TargetLock
-dimwishlist:item=2624561525&perks=1820235745,438098033#notes: Subsistence/Harmony
-dimwishlist:item=2624561525&perks=2779035018,124408337#notes: FeedingFrenzy/Headstone
 dimwishlist:item=2624561525&perks=2779035018,2458213969#notes: FeedingFrenzy/MultiKillClip
-dimwishlist:item=2624561525&perks=2779035018,365154968#notes: FeedingFrenzy/TargetLock
-dimwishlist:item=2624561525&perks=2779035018,438098033#notes: FeedingFrenzy/Harmony
-dimwishlist:item=2624561525&perks=1428297954,2272927194#notes: PerpetualMotion/PerfectFloat
-dimwishlist:item=2624561525&perks=1428297954,1890422124#notes: PerpetualMotion/TapTheTrigger
+dimwishlist:item=2624561525&perks=1428297954,2272927194#notes: PerpetualMotion/PerfectFloat(PVP)
+dimwishlist:item=2624561525&perks=1428297954,1890422124#notes: PerpetualMotion/TapTheTrigger(PVP)
 dimwishlist:item=2624561525&perks=3523296417,2109543898#notes: Demolitionist/Desperate
 dimwishlist:item=2624561525&perks=4190679284,2109543898#notes: ProximityPower/Desperate
-dimwishlist:item=2624561525&perks=1359896290,2272927194#notes: DynamicSway/PerfectFloat
-dimwishlist:item=2624561525&perks=1359896290,1890422124#notes: DynamicSway/TapTheTrigger
+dimwishlist:item=2624561525&perks=1359896290,2272927194#notes: DynamicSway/PerfectFloat(PVP)
+dimwishlist:item=2624561525&perks=1359896290,1890422124#notes: DynamicSway/TapTheTrigger(PVP)
 —————————————————————————
 Bad Reputation - 18 Rolls
 dimwishlist:item=2105827099&perks=1288081797,3230963543,2387244414,1015611457#notes: KingsightK1/FlaredMag/ZenMoment/KillCLip
@@ -3272,13 +3263,12 @@ dimwishlist:item=1161276682&perks=1482024992,1561002382#notes: Smallbore/High-Ca
 —————————————————————————
 [9]: Bows 
 —————————————————————————
-Convened Recurve - 14 Rolls
-dimwishlist:item=3667861447&perks=588594999,957782887#notes: MovingTarget/Snapshot
-dimwishlist:item=3667861447&perks=588594999,3673922083#notes: MovingTarget/Adagio
-dimwishlist:item=3667861447&perks=1918398421,957782887#notes: BuiltToBlast/Snapshot
-dimwishlist:item=3667861447&perks=1918398421,3673922083#notes: BuiltToBlast/Adagio
-dimwishlist:item=3667861447&perks=1134488199,957782887#notes: WitheringGaze/Snapshot
-dimwishlist:item=3667861447&perks=1134488199,3673922083#notes: WitheringGaze/Adagio
+Convened Recurve - 13 Rolls
+dimwishlist:item=3667861447&perks=588594999,957782887#notes: MovingTarget/Snapshot(PVP)
+dimwishlist:item=3667861447&perks=588594999,3673922083#notes: MovingTarget/Adagio(PVP)
+dimwishlist:item=3667861447&perks=1918398421,957782887#notes: BuiltToBlast/Snapshot(PVP)
+dimwishlist:item=3667861447&perks=1918398421,3673922083#notes: BuiltToBlast/Adagio(PVP)
+dimwishlist:item=3667861447&perks=1134488199,957782887#notes: WitheringGaze/Snapshot(PVP)
 dimwishlist:item=3667861447&perks=1134488199,198336270#notes: WitheringGaze/Butterfly
 dimwishlist:item=3667861447&perks=776531651,1464081238#notes: RepulsorBrace/Demoralize
 dimwishlist:item=3667861447&perks=776531651,2048641572#notes: RepulsorBrace/DestabilizingRounds

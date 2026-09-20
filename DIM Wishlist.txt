@@ -1880,6 +1880,16 @@ dimwishlist:item=2222560548&perks=3177308360,1359896290,1890422124#notes: Steady
 —————————————————————————
 [4]: Sidearms 
 —————————————————————————
+Lotus Eater - 8 Rolls
+dimwishlist:item=924095500&perks=1523832109,1134488199#notes: Reconstruction/WitheringGaze
+dimwishlist:item=924095500&perks=1523832109,3751912585#notes: Reconstruction/CascadePoint
+dimwishlist:item=924095500&perks=776531651,2048641572#notes: RepulsorBrace/DestabilizingRounds
+dimwishlist:item=924095500&perks=3182497402,3324494224#notes: DimensionalShift/CollectiveAction
+dimwishlist:item=924095500&perks=1421772400,4104185692#notes: AirTrigger/Frenzy
+dimwishlist:item=924095500&perks=2458610193,1134488199#notes: LightTouch/WitheringGaze
+dimwishlist:item=924095500&perks=2458610193,3751912585#notes: LightTouch/CascadePoint
+dimwishlist:item=924095500&perks=960810156,3708227201#notes: DangerZone/Surrounded
+—————————————————————————
 Punching Out - 17 Rolls
 dimwishlist:item=1469372193&perks=3523296417,11612903#notes: Demolitionist/AdrenalineJunkie
 dimwishlist:item=1469372193&perks=3017780555,2779035018#notes: HealClip/FeedingFrenzy
@@ -1898,12 +1908,6 @@ dimwishlist:item=1469372193&perks=3643424744,4293542123#notes: Overflow/Incandes
 dimwishlist:item=1469372193&perks=3643424744,1546142478#notes: Overflow/BinaryOrbit
 dimwishlist:item=1469372193&perks=3643424744,657025441#notes: Overflow/Meganeura
 dimwishlist:item=1469372193&perks=3643424744,4082225868#notes: Overflow/Swashbuckler
-—————————————————————————
-Smuggler's Word (Legacy Note)
-dimwishlist:item=1843044399#notes: Moved to Legacy List
-—————————————————————————
-The Last Dance (Legacy Note)
-dimwishlist:item=2009277538#notes: Moved to Legacy List
 —————————————————————————
 Last Hope - 54 Rolls
 dimwishlist:item=3622137132&perks=445755707,1561002382,2846385770,1890422124#notes: QuickDot/Hi-Cal/Rangefinder/TapTheTrigger 

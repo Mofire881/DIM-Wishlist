@@ -107,6 +107,7 @@ DIM Wishlist Perk Codes:
 3252937884 AdhesiveOrdnance
 11612903 AdrenalineJunkie
 3764420437 AggregateCharge
+1421772400 AirTrigger
 1226351311 AllStar
 2010801679 Ambitious
 3300816228 AutoLoading
@@ -118,11 +119,13 @@ DIM Wishlist Perk Codes:
 2551157718 BoxBreathing
 1918398421 BuiltToBlast
 198336270 Butterfly
+3751912585 CascadePoint
 2396489472 ChainReaction
 1194056669 ClosingTime
 2284787283 Clown
 3650930298 ColdSteel
 3324494224 CollectiveAction
+960810156 DangerZone
 3523296417 Demolitionist
 1464081238 Demoralize
 2109543898 Desperate

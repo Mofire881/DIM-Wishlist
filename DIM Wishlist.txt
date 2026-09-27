@@ -1887,28 +1887,31 @@ dimwishlist:item=2222560548&perks=3177308360,1359896290,1890422124#notes: Steady
 —————————————————————————
 [4]: Sidearms 
 —————————————————————————
-Heliocentric QSC - 21 Rolls
+Heliocentric QSC - 24 Rolls
 dimwishlist:item=1291040555&perks=4090651448,3017780555,4293542123#notes: Corkscrew/HealClip/Incandescent
 dimwishlist:item=1291040555&perks=4090651448,3017780555,1015611457#notes: Corkscrew/HealClip/KillClip
 dimwishlist:item=1291040555&perks=4090651448,3017780555,3708227201#notes: Corkscrew/HealClip/Surrounded
 dimwishlist:item=1291040555&perks=4090651448,3017780555,4104185692#notes: Corkscrew/HealClip/Frenzy
-dimwishlist:item=1291040555&perks=4090651448,777589557,4293542123#notes: Corkscrew/EnlightenedAction/Incandescent
-dimwishlist:item=1291040555&perks=4090651448,777589557,1015611457#notes: Corkscrew/EnlightenedAction/KillClip
-dimwishlist:item=1291040555&perks=4090651448,777589557,3708227201#notes: Corkscrew/EnlightenedAction/Surrounded
+dimwishlist:item=1291040555&perks=4090651448,3828510309,4293542123#notes: Corkscrew/EnlightenedAction/Incandescent
+dimwishlist:item=1291040555&perks=4090651448,3828510309,1015611457#notes: Corkscrew/EnlightenedAction/KillClip
+dimwishlist:item=1291040555&perks=4090651448,3828510309,3708227201#notes: Corkscrew/EnlightenedAction/Surrounded
+dimwishlist:item=1291040555&perks=4090651448,3523296417,11612903#notes: Corkscrew/Demolitionist/AdrenalineJunkie
 dimwishlist:item=1291040555&perks=1482024992,3017780555,4293542123#notes: Smallbore/HealClip/Incandescent
 dimwishlist:item=1291040555&perks=1482024992,3017780555,1015611457#notes: Smallbore/HealClip/KillClip
 dimwishlist:item=1291040555&perks=1482024992,3017780555,3708227201#notes: Smallbore/HealClip/Surrounded
 dimwishlist:item=1291040555&perks=1482024992,3017780555,4104185692#notes: Smallbore/HealClip/Frenzy
-dimwishlist:item=1291040555&perks=1482024992,777589557,4293542123#notes: Smallbore/EnlightenedAction/Incandescent
-dimwishlist:item=1291040555&perks=1482024992,777589557,1015611457#notes: Smallbore/EnlightenedAction/KillClip
-dimwishlist:item=1291040555&perks=1482024992,777589557,3708227201#notes: Smallbore/EnlightenedAction/Surrounded
+dimwishlist:item=1291040555&perks=1482024992,3828510309,4293542123#notes: Smallbore/EnlightenedAction/Incandescent
+dimwishlist:item=1291040555&perks=1482024992,3828510309,1015611457#notes: Smallbore/EnlightenedAction/KillClip
+dimwishlist:item=1291040555&perks=1482024992,3828510309,3708227201#notes: Smallbore/EnlightenedAction/Surrounded
+dimwishlist:item=1291040555&perks=1482024992,3523296417,11612903#notes: Smallbore/Demolitionist/AdrenalineJunkie
 dimwishlist:item=1291040555&perks=1392496348,3017780555,4293542123#notes: Polygonal/HealClip/Incandescent
 dimwishlist:item=1291040555&perks=1392496348,3017780555,1015611457#notes: Polygonal/HealClip/KillClip
 dimwishlist:item=1291040555&perks=1392496348,3017780555,3708227201#notes: Polygonal/HealClip/Surrounded
 dimwishlist:item=1291040555&perks=1392496348,3017780555,4104185692#notes: Polygonal/HealClip/Frenzy
-dimwishlist:item=1291040555&perks=1392496348,777589557,4293542123#notes: Polygonal/EnlightenedAction/Incandescent
-dimwishlist:item=1291040555&perks=1392496348,777589557,1015611457#notes: Polygonal/EnlightenedAction/KillClip
-dimwishlist:item=1291040555&perks=1392496348,777589557,3708227201#notes: Polygonal/EnlightenedAction/Surrounded
+dimwishlist:item=1291040555&perks=1392496348,3828510309,4293542123#notes: Polygonal/EnlightenedAction/Incandescent
+dimwishlist:item=1291040555&perks=1392496348,3828510309,1015611457#notes: Polygonal/EnlightenedAction/KillClip
+dimwishlist:item=1291040555&perks=1392496348,3828510309,3708227201#notes: Polygonal/EnlightenedAction/Surrounded
+dimwishlist:item=1291040555&perks=1392496348,3523296417,11612903#notes: Polygonal/Demolitionist/AdrenalineJunkie
 —————————————————————————
 Lotus Eater - 8 Rolls
 dimwishlist:item=924095500&perks=1523832109,1134488199#notes: Reconstruction/WitheringGaze

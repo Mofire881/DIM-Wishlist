@@ -1,6 +1,56 @@
 title: Mo's God Roll Wish List (Legacy)
 description: Legacy rolls that are no longer obtainable that have been moved from my main wishlist to here to save space in that document.
 —————————————————————————
+Enigma's Draw - 48 Rolls
+dimwishlist:item=1723380073&perks=445755707,1087426260,1631667848,4082225868#notes: Quickdot/Appended/GraveRobber/Swashbuckler
+dimwishlist:item=1723380073&perks=445755707,1561002382,1631667848,4082225868#notes: Quickdot/High-Cal/GraveRobber/Swashbuckler
+dimwishlist:item=1723380073&perks=445755707,1561002382,2387244414,247725512#notes: Quickdot/High-Cal/ZenMoment/RapidHit
+dimwishlist:item=1723380073&perks=445755707,1561002382,2387244414,2846385770#notes: Quickdot/High-Cal/ZenMoment/Rangefinder
+dimwishlist:item=1723380073&perks=445755707,1561002382,47981717,247725512#notes: Quickdot/High-Cal/OpeningShot/RapidHit
+dimwishlist:item=1723380073&perks=445755707,1561002382,47981717,2846385770#notes: Quickdot/High-Cal/OpeningShot/Rangefinder
+dimwishlist:item=1723380073&perks=445755707,1885400500,1631667848,4082225868#notes: Quickdot/Ricochet/GraveRobber/Swashbuckler
+dimwishlist:item=1723380073&perks=445755707,1885400500,2387244414,247725512#notes: Quickdot/Ricochet/ZenMoment/RapidHit
+dimwishlist:item=1723380073&perks=445755707,1885400500,2387244414,2846385770#notes: Quickdot/Ricochet/ZenMoment/Rangefinder
+dimwishlist:item=1723380073&perks=445755707,1885400500,47981717,247725512#notes: Quickdot/Ricochet/OpeningShot/RapidHit
+dimwishlist:item=1723380073&perks=445755707,1885400500,47981717,2846385770#notes: Quickdot/Ricochet/OpeningShot/Rangefinder
+dimwishlist:item=1723380073&perks=445755707,2420895100,1631667848,4082225868#notes: Quickdot/Extended/GraveRobber/Swashbuckler
+dimwishlist:item=1723380073&perks=445755706,1087426260,1631667848,4082225868#notes: Control/Appended/GraveRobber/Swashbuckler
+dimwishlist:item=1723380073&perks=445755706,1561002382,1631667848,4082225868#notes: Control/High-Cal/GraveRobber/Swashbuckler
+dimwishlist:item=1723380073&perks=445755706,1561002382,2387244414,247725512#notes: Control/High-Cal/ZenMoment/RapidHit
+dimwishlist:item=1723380073&perks=445755706,1561002382,2387244414,2846385770#notes: Control/High-Cal/ZenMoment/Rangefinder
+dimwishlist:item=1723380073&perks=445755706,1561002382,47981717,247725512#notes: Control/High-Cal/OpeningShot/RapidHit
+dimwishlist:item=1723380073&perks=445755706,1561002382,47981717,2846385770#notes: Control/High-Cal/OpeningShot/Rangefinder
+dimwishlist:item=1723380073&perks=445755706,1885400500,1631667848,4082225868#notes: Control/Ricochet/GraveRobber/Swashbuckler
+dimwishlist:item=1723380073&perks=445755706,1885400500,2387244414,247725512#notes: Control/Ricochet/ZenMoment/RapidHit
+dimwishlist:item=1723380073&perks=445755706,1885400500,2387244414,2846385770#notes: Control/Ricochet/ZenMoment/Rangefinder
+dimwishlist:item=1723380073&perks=445755706,1885400500,47981717,247725512#notes: Control/Ricochet/OpeningShot/RapidHit
+dimwishlist:item=1723380073&perks=445755706,1885400500,47981717,2846385770#notes: Control/Ricochet/OpeningShot/Rangefinder
+dimwishlist:item=1723380073&perks=445755706,2420895100,1631667848,4082225868#notes: Control/Extended/GraveRobber/Swashbuckler
+dimwishlist:item=1723380073&perks=445755705,1087426260,1631667848,4082225868#notes: Shortspec/Appended/GraveRobber/Swashbuckler
+dimwishlist:item=1723380073&perks=445755705,1561002382,1631667848,4082225868#notes: Shortspec/High-Cal/GraveRobber/Swashbuckler
+dimwishlist:item=1723380073&perks=445755705,1561002382,2387244414,247725512#notes: Shortspec/High-Cal/ZenMoment/RapidHit
+dimwishlist:item=1723380073&perks=445755705,1561002382,2387244414,2846385770#notes: Shortspec/High-Cal/ZenMoment/Rangefinder
+dimwishlist:item=1723380073&perks=445755705,1561002382,47981717,247725512#notes: Shortspec/High-Cal/OpeningShot/RapidHit
+dimwishlist:item=1723380073&perks=445755705,1561002382,47981717,2846385770#notes: Shortspec/High-Cal/OpeningShot/Rangefinder
+dimwishlist:item=1723380073&perks=445755705,1885400500,1631667848,4082225868#notes: Shortspec/Ricochet/GraveRobber/Swashbuckler
+dimwishlist:item=1723380073&perks=445755705,1885400500,2387244414,247725512#notes: Shortspec/Ricochet/ZenMoment/RapidHit
+dimwishlist:item=1723380073&perks=445755705,1885400500,2387244414,2846385770#notes: Shortspec/Ricochet/ZenMoment/Rangefinder
+dimwishlist:item=1723380073&perks=445755705,1885400500,47981717,247725512#notes: Shortspec/Ricochet/OpeningShot/RapidHit
+dimwishlist:item=1723380073&perks=445755705,1885400500,47981717,2846385770#notes: Shortspec/Ricochet/OpeningShot/Rangefinder
+dimwishlist:item=1723380073&perks=445755705,2420895100,1631667848,4082225868#notes: Shortspec/Extended/GraveRobber/Swashbuckler
+dimwishlist:item=1723380073&perks=445755704,1087426260,1631667848,4082225868#notes: Tactic/Appended/GraveRobber/Swashbuckler
+dimwishlist:item=1723380073&perks=445755704,1561002382,1631667848,4082225868#notes: Tactic/High-Cal/GraveRobber/Swashbuckler
+dimwishlist:item=1723380073&perks=445755704,1561002382,2387244414,247725512#notes: Tactic/High-Cal/ZenMoment/RapidHit
+dimwishlist:item=1723380073&perks=445755704,1561002382,2387244414,2846385770#notes: Tactic/High-Cal/ZenMoment/Rangefinder
+dimwishlist:item=1723380073&perks=445755704,1561002382,47981717,247725512#notes: Tactic/High-Cal/OpeningShot/RapidHit
+dimwishlist:item=1723380073&perks=445755704,1561002382,47981717,2846385770#notes: Tactic/High-Cal/OpeningShot/Rangefinder
+dimwishlist:item=1723380073&perks=445755704,1885400500,1631667848,4082225868#notes: Tactic/Ricochet/GraveRobber/Swashbuckler
+dimwishlist:item=1723380073&perks=445755704,1885400500,2387244414,247725512#notes: Tactic/Ricochet/ZenMoment/RapidHit
+dimwishlist:item=1723380073&perks=445755704,1885400500,2387244414,2846385770#notes: Tactic/Ricochet/ZenMoment/Rangefinder
+dimwishlist:item=1723380073&perks=445755704,1885400500,47981717,247725512#notes: Tactic/Ricochet/OpeningShot/RapidHit
+dimwishlist:item=1723380073&perks=445755704,1885400500,47981717,2846385770#notes: Tactic/Ricochet/OpeningShot/Rangefinder
+dimwishlist:item=1723380073&perks=445755704,2420895100,1631667848,4082225868#notes: Tactic/Extended/GraveRobber/Swashbuckler
+—————————————————————————
 Last Hope - 54 Rolls
 dimwishlist:item=3622137132&perks=445755707,1561002382,2846385770,1890422124#notes: QuickDot/Hi-Cal/Rangefinder/TapTheTrigger 
 dimwishlist:item=3622137132&perks=445755707,1885400500,2846385770,1890422124#notes: QuickDot/Ricochet/Rangefinder/TapTheTrigger

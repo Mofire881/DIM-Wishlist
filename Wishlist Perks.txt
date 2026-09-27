@@ -135,7 +135,7 @@ DIM Wishlist Perk Codes:
 1359896290 DynamicSway
 2848615171 Dragonfly
 1089671869 ElementalHoning
-777589557 EnlightenedAction
+3828510309 EnlightenedAction
 3987942396 EnviousArsenal
 3194351027 ExplosiveLight
 3038247973 ExplosivePayload

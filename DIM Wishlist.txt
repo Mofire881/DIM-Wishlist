@@ -88,6 +88,10 @@ dimwishlist:item=1518042134&perks=2054312701,106909392,1890422124,1015611457#not
 Last Hope
 dimwishlist:item=3622137132&perks=445755705,2420895100,2779035018,2458213969#notes: ShortSpec/Extended/FeedingFrenzy/MultiKillClip
 —————————————————————————
+Engima's Draw
+dimwishlist:item=1723380073&perks=445755706,1561002382,1631667848,4082225868#notes: Control/High-Cal/GraveRobber/Swashbuckler
+—————————————————————————
+—————————————————————————
 [1]: Auto Rifles 
 —————————————————————————
 Trendsetter - 16 Rolls (PvP Not Added)
@@ -1883,6 +1887,29 @@ dimwishlist:item=2222560548&perks=3177308360,1359896290,1890422124#notes: Steady
 —————————————————————————
 [4]: Sidearms 
 —————————————————————————
+Heliocentric QSC - 21 Rolls
+dimwishlist:item=1291040555&perks=4090651448,3017780555,4293542123#notes: Corkscrew/HealClip/Incandescent
+dimwishlist:item=1291040555&perks=4090651448,3017780555,1015611457#notes: Corkscrew/HealClip/KillClip
+dimwishlist:item=1291040555&perks=4090651448,3017780555,3708227201#notes: Corkscrew/HealClip/Surrounded
+dimwishlist:item=1291040555&perks=4090651448,3017780555,4104185692#notes: Corkscrew/HealClip/Frenzy
+dimwishlist:item=1291040555&perks=4090651448,777589557,4293542123#notes: Corkscrew/EnlightenedAction/Incandescent
+dimwishlist:item=1291040555&perks=4090651448,777589557,1015611457#notes: Corkscrew/EnlightenedAction/KillClip
+dimwishlist:item=1291040555&perks=4090651448,777589557,3708227201#notes: Corkscrew/EnlightenedAction/Surrounded
+dimwishlist:item=1291040555&perks=1482024992,3017780555,4293542123#notes: Smallbore/HealClip/Incandescent
+dimwishlist:item=1291040555&perks=1482024992,3017780555,1015611457#notes: Smallbore/HealClip/KillClip
+dimwishlist:item=1291040555&perks=1482024992,3017780555,3708227201#notes: Smallbore/HealClip/Surrounded
+dimwishlist:item=1291040555&perks=1482024992,3017780555,4104185692#notes: Smallbore/HealClip/Frenzy
+dimwishlist:item=1291040555&perks=1482024992,777589557,4293542123#notes: Smallbore/EnlightenedAction/Incandescent
+dimwishlist:item=1291040555&perks=1482024992,777589557,1015611457#notes: Smallbore/EnlightenedAction/KillClip
+dimwishlist:item=1291040555&perks=1482024992,777589557,3708227201#notes: Smallbore/EnlightenedAction/Surrounded
+dimwishlist:item=1291040555&perks=1392496348,3017780555,4293542123#notes: Polygonal/HealClip/Incandescent
+dimwishlist:item=1291040555&perks=1392496348,3017780555,1015611457#notes: Polygonal/HealClip/KillClip
+dimwishlist:item=1291040555&perks=1392496348,3017780555,3708227201#notes: Polygonal/HealClip/Surrounded
+dimwishlist:item=1291040555&perks=1392496348,3017780555,4104185692#notes: Polygonal/HealClip/Frenzy
+dimwishlist:item=1291040555&perks=1392496348,777589557,4293542123#notes: Polygonal/EnlightenedAction/Incandescent
+dimwishlist:item=1291040555&perks=1392496348,777589557,1015611457#notes: Polygonal/EnlightenedAction/KillClip
+dimwishlist:item=1291040555&perks=1392496348,777589557,3708227201#notes: Polygonal/EnlightenedAction/Surrounded
+—————————————————————————
 Lotus Eater - 8 Rolls
 dimwishlist:item=924095500&perks=1523832109,1134488199#notes: Reconstruction/WitheringGaze
 dimwishlist:item=924095500&perks=1523832109,3751912585#notes: Reconstruction/CascadePoint
@@ -1986,56 +2013,6 @@ dimwishlist:item=4149758318&perks=2420895100,247725512,2848615171#notes: Extende
 dimwishlist:item=4149758318&perks=2420895100,2779035018,3708227201#notes: Extended/FeedingFrenzy/Surrounded
 dimwishlist:item=4149758318&perks=2420895100,2779035018,1683379515#notes: Extended/FeedingFrenzy/Disruption
 dimwishlist:item=4149758318&perks=2420895100,2779035018,2848615171#notes: Extended/FeedingFrenzy/Dragonfly
-—————————————————————————
-Enigma's Draw - 48 Rolls
-dimwishlist:item=1723380073&perks=445755707,1087426260,1631667848,4082225868#notes: Quickdot/Appended/GraveRobber/Swashbuckler
-dimwishlist:item=1723380073&perks=445755707,1561002382,1631667848,4082225868#notes: Quickdot/High-Cal/GraveRobber/Swashbuckler
-dimwishlist:item=1723380073&perks=445755707,1561002382,2387244414,247725512#notes: Quickdot/High-Cal/ZenMoment/RapidHit
-dimwishlist:item=1723380073&perks=445755707,1561002382,2387244414,2846385770#notes: Quickdot/High-Cal/ZenMoment/Rangefinder
-dimwishlist:item=1723380073&perks=445755707,1561002382,47981717,247725512#notes: Quickdot/High-Cal/OpeningShot/RapidHit
-dimwishlist:item=1723380073&perks=445755707,1561002382,47981717,2846385770#notes: Quickdot/High-Cal/OpeningShot/Rangefinder
-dimwishlist:item=1723380073&perks=445755707,1885400500,1631667848,4082225868#notes: Quickdot/Ricochet/GraveRobber/Swashbuckler
-dimwishlist:item=1723380073&perks=445755707,1885400500,2387244414,247725512#notes: Quickdot/Ricochet/ZenMoment/RapidHit
-dimwishlist:item=1723380073&perks=445755707,1885400500,2387244414,2846385770#notes: Quickdot/Ricochet/ZenMoment/Rangefinder
-dimwishlist:item=1723380073&perks=445755707,1885400500,47981717,247725512#notes: Quickdot/Ricochet/OpeningShot/RapidHit
-dimwishlist:item=1723380073&perks=445755707,1885400500,47981717,2846385770#notes: Quickdot/Ricochet/OpeningShot/Rangefinder
-dimwishlist:item=1723380073&perks=445755707,2420895100,1631667848,4082225868#notes: Quickdot/Extended/GraveRobber/Swashbuckler
-dimwishlist:item=1723380073&perks=445755706,1087426260,1631667848,4082225868#notes: Control/Appended/GraveRobber/Swashbuckler
-dimwishlist:item=1723380073&perks=445755706,1561002382,1631667848,4082225868#notes: Control/High-Cal/GraveRobber/Swashbuckler
-dimwishlist:item=1723380073&perks=445755706,1561002382,2387244414,247725512#notes: Control/High-Cal/ZenMoment/RapidHit
-dimwishlist:item=1723380073&perks=445755706,1561002382,2387244414,2846385770#notes: Control/High-Cal/ZenMoment/Rangefinder
-dimwishlist:item=1723380073&perks=445755706,1561002382,47981717,247725512#notes: Control/High-Cal/OpeningShot/RapidHit
-dimwishlist:item=1723380073&perks=445755706,1561002382,47981717,2846385770#notes: Control/High-Cal/OpeningShot/Rangefinder
-dimwishlist:item=1723380073&perks=445755706,1885400500,1631667848,4082225868#notes: Control/Ricochet/GraveRobber/Swashbuckler
-dimwishlist:item=1723380073&perks=445755706,1885400500,2387244414,247725512#notes: Control/Ricochet/ZenMoment/RapidHit
-dimwishlist:item=1723380073&perks=445755706,1885400500,2387244414,2846385770#notes: Control/Ricochet/ZenMoment/Rangefinder
-dimwishlist:item=1723380073&perks=445755706,1885400500,47981717,247725512#notes: Control/Ricochet/OpeningShot/RapidHit
-dimwishlist:item=1723380073&perks=445755706,1885400500,47981717,2846385770#notes: Control/Ricochet/OpeningShot/Rangefinder
-dimwishlist:item=1723380073&perks=445755706,2420895100,1631667848,4082225868#notes: Control/Extended/GraveRobber/Swashbuckler
-dimwishlist:item=1723380073&perks=445755705,1087426260,1631667848,4082225868#notes: Shortspec/Appended/GraveRobber/Swashbuckler
-dimwishlist:item=1723380073&perks=445755705,1561002382,1631667848,4082225868#notes: Shortspec/High-Cal/GraveRobber/Swashbuckler
-dimwishlist:item=1723380073&perks=445755705,1561002382,2387244414,247725512#notes: Shortspec/High-Cal/ZenMoment/RapidHit
-dimwishlist:item=1723380073&perks=445755705,1561002382,2387244414,2846385770#notes: Shortspec/High-Cal/ZenMoment/Rangefinder
-dimwishlist:item=1723380073&perks=445755705,1561002382,47981717,247725512#notes: Shortspec/High-Cal/OpeningShot/RapidHit
-dimwishlist:item=1723380073&perks=445755705,1561002382,47981717,2846385770#notes: Shortspec/High-Cal/OpeningShot/Rangefinder
-dimwishlist:item=1723380073&perks=445755705,1885400500,1631667848,4082225868#notes: Shortspec/Ricochet/GraveRobber/Swashbuckler
-dimwishlist:item=1723380073&perks=445755705,1885400500,2387244414,247725512#notes: Shortspec/Ricochet/ZenMoment/RapidHit
-dimwishlist:item=1723380073&perks=445755705,1885400500,2387244414,2846385770#notes: Shortspec/Ricochet/ZenMoment/Rangefinder
-dimwishlist:item=1723380073&perks=445755705,1885400500,47981717,247725512#notes: Shortspec/Ricochet/OpeningShot/RapidHit
-dimwishlist:item=1723380073&perks=445755705,1885400500,47981717,2846385770#notes: Shortspec/Ricochet/OpeningShot/Rangefinder
-dimwishlist:item=1723380073&perks=445755705,2420895100,1631667848,4082225868#notes: Shortspec/Extended/GraveRobber/Swashbuckler
-dimwishlist:item=1723380073&perks=445755704,1087426260,1631667848,4082225868#notes: Tactic/Appended/GraveRobber/Swashbuckler
-dimwishlist:item=1723380073&perks=445755704,1561002382,1631667848,4082225868#notes: Tactic/High-Cal/GraveRobber/Swashbuckler
-dimwishlist:item=1723380073&perks=445755704,1561002382,2387244414,247725512#notes: Tactic/High-Cal/ZenMoment/RapidHit
-dimwishlist:item=1723380073&perks=445755704,1561002382,2387244414,2846385770#notes: Tactic/High-Cal/ZenMoment/Rangefinder
-dimwishlist:item=1723380073&perks=445755704,1561002382,47981717,247725512#notes: Tactic/High-Cal/OpeningShot/RapidHit
-dimwishlist:item=1723380073&perks=445755704,1561002382,47981717,2846385770#notes: Tactic/High-Cal/OpeningShot/Rangefinder
-dimwishlist:item=1723380073&perks=445755704,1885400500,1631667848,4082225868#notes: Tactic/Ricochet/GraveRobber/Swashbuckler
-dimwishlist:item=1723380073&perks=445755704,1885400500,2387244414,247725512#notes: Tactic/Ricochet/ZenMoment/RapidHit
-dimwishlist:item=1723380073&perks=445755704,1885400500,2387244414,2846385770#notes: Tactic/Ricochet/ZenMoment/Rangefinder
-dimwishlist:item=1723380073&perks=445755704,1885400500,47981717,247725512#notes: Tactic/Ricochet/OpeningShot/RapidHit
-dimwishlist:item=1723380073&perks=445755704,1885400500,47981717,2846385770#notes: Tactic/Ricochet/OpeningShot/Rangefinder
-dimwishlist:item=1723380073&perks=445755704,2420895100,1631667848,4082225868#notes: Tactic/Extended/GraveRobber/Swashbuckler
 —————————————————————————
 Seventh Seraph SI-2 - 144
 dimwishlist:item=3937866388&perks=4090651448,106909392,2117683199,1546637391#notes: Corkscrew/TacMag/FullAuto/Vorpal
